@@ -1,0 +1,58 @@
+SIGLA – DESENVOLVIMENTO WEB III – PRESENCIAL - 80 Aulas
+Competências Profissionais desenvolvidas neste componente
+ Aplicar linguagens de programação back-end e raciocínio lógico adequados para resolução
+de situações problema e ou desenvolvimento de projetos diversos.
+ Aplicar técnicas de Search Engine Optimization, conjunto de estratégias e métodos para
+melhorar o posicionamento de páginas da Internet nos mecanismos de buscas.
+ Implantar de sistemas nas diversas infraestruturas de Redes de Computadores, buscando a
+melhor performance.
+Competências Socioemocionais
+ Agir com pensamento crítico voltado à resolução de situações-problema.
+ Demonstrar capacidade de lidar com situações novas.
+ Evidenciar iniciativa e flexibilidade para adaptar-se a novas dinâmicas
+Objetivos de Aprendizagem:
+ Conhecer Linguagens Back-End de Programação para desenvolvimento de
+aplicações web.
+ Integrar essas linguagens com as linguagens de desenvolvimento front-end.
+ Construir web sites dinâmicos baseados em novas tecnologias. Aplicar
+conceitos da Arquitetura Model-View-Controller.
+ Utilizar camada de acesso a banco de dados.
+ Conhecer frameworks de desenvolvimento Front-end e Back-end. Consumir
+APIs para interagir com sistemas externos.
+ Compreender o funcionamento básico de um servidor de Internet.
+ Aplicar versionamento e documentação da aplicação.
+Ementa: Framework para desenvolvimento front-end e back-end. Arquiteturas de
+sistemas web tais como modelo-visão-controlador (MVC), modelo visão e gabarito
+Model-View-Template (MVT) arquitetura orientada a serviços Service Oriented
+Architecture (SOA), microsserviços, aplicações web de página única Single Page
+Applications (SPA). Persistência de dados utilizando bancos de dados não relacionais,
+tais como orientados a documentos, orientados a objetos. Criação e publicação de
+APIs. Técnicas e Ferramentas para otimização de sites de buscas (SEO).
+Desenvolvimento Dirigido a testes (TDD). Testes de sistemas e serviços web. Controle
+de versionamento.
+Metodologia proposta: Aulas Expositivas. Aprendizagem Baseada em
+Projetos/Problemas. Gamificação. Coding Dojo.
+Instrumentos de avaliação:
+Avaliação Formativa: Exercícios para prática. Análise e Resolução de Problemas
+acompanhado de rubrica de avaliação.
+Avaliação Somativa: Provas. Projetos. Avaliação em pares. Desafios de Programação
+e Trabalhos Interdisciplinares. 
+Bibliografia Básica:
+FOWLER, S. Microsserviços Prontos Para a Produção: Construindo Sistemas
+Padronizados em uma Organização de Engenharia de Software. São Paulo: Novatec,
+2017.
+MELÉ, A. Aprenda Django 3 com Exemplos: Crie Aplicações web Profissionais em
+Python, Começando do Zero. São Paulo: Novatec, 2020.
+PERCIVAL, H. J. W. TDD com Python: Siga o Bode dos Testes: Usando Django,
+Selenium e JavaScript. São Paulo: Novatec, 2017.
+POWERS, S. Aprendendo Node: Usando JavaScript no Servidor. São Paulo:
+Novatec, 2017.
+Bibliografia Complementar:
+BROWN, E. Programação web com Node e Express: Beneficiando-se da Stack
+JavaScript. São Paulo: Novatec, 2020.
+DUCKETT, J. JAVASCRIPT e JQUERY: Desenvolvimento de Interfaces Web
+Interativas. Editora Alta Books. 2016
+IHRIG, C. J. Pro Node.Js para Desenvolvedores. Rio de Janeiro: Ciência Moderna.
+2014.
+SHENOY, A.; PRABHU A. Introdução ao SEO: Seu Guia Rápido às Práticas
+Eficientes de SEO. São Paulo: Novatec, 2016.
