@@ -1,0 +1,46 @@
+0000 – DESIGN DIGITAL– PRESENCIAL - 80 Aulas
+Competências Profissionais desenvolvidas neste componente
+ Desenvolver soluções de software empregando conceitos e técnicas de Design Digital e
+Visual.
+ Empregar as melhores práticas da Arquitetura da Informação no desenvolvimento de
+software para Dispositivos Móveis, Web e Desktop.
+Competências Socioemocionais
+ Responder com empatia a emoções e necessidades manifestadas por outras pessoas.
+Objetivos de Aprendizagem:
+ Definir a conceituação e fundamentação do design da informação, estabelecer
+princípios do design e sua estrutura na organização visual em documentos
+gráficos e interfaces, utilizando planejamento visual no desenvolvimento de
+layouts com a prototipação de baixa e alta fidelidade modelando a navegação
+de acordo com regras de usabilidade. 
+ Identificar técnicas para modelagem e representação de tipografias e de
+objetos geométricos utilizados em aplicações.
+ Aplicar folhas de estilo que atendam requisitos funcionais e não funcionais do
+projeto.
+ Utilizar softwares de edição de imagem na segmentação e aplicação de filtros
+e transformações buscando técnicas de remoção de elementos ocultos,
+iluminação e aplicação de texturas e cores.
+Ementa: Conceitos de Design Gráfico aplicado à construção de aplicativos e sites.
+Softwares para edição e tratamento de imagens estáticas e em movimento. Teoria
+das Cores. Composição. Tipografia. Definição de formatos, resolução, tamanho de
+imagens. Recursos para a criação/manipulação de imagens para a construção de
+botões, banners, logomarca. Direitos Autorais e Direitos de Uso de elementos visuais
+(imagem, desenho, animação, vídeo, áudio, entre outros.). Planejamento visual e
+layout. Desenvolvimento do layout. Grid (grade) de meios impressos e digitais.
+Metodologia proposta: Aulas expositivas dialogadas. Aprendizagem Baseada em
+Projetos/Problema. Atividades em pares/grupos. Sala de aula invertida. Design
+Thinking.
+Instrumentos de avaliação:
+Avaliação Formativa: Exercícios para prática. Análise e Resolução de Problemas
+acompanhado de rubrica de avaliação.
+Avaliação Somativa: Provas. Projetos. Avaliação em pares e Trabalhos
+Interdisciplinares. Validação do projeto para inclusão no Portfólio Digital do aluno.
+Bibliografia Básica:
+DONDIS, D. A. Sintaxe da linguagem visual. 3 ed. São Paulo: Martins Fontes, 2015.
+GOMES FILHO, J. Gestalt do Objeto: sistema de leitura visual da forma. 9 ed. São
+Paulo. Escrituras, 2013.
+NILSEN, J; LORANGER, H. Usabilidade na Web: projetando websites com
+qualidade. Rio de Janeiro: Elsevier, 2007. 
+Bibliografia Complementar:
+PRIMO, L. Estudo Dirigido de Coreldraw X5 Em Português. São Paulo: Érica, 2010.
+PRIMO, L. Estudo Dirigido de Adobe Photoshop Cs5 Em Português- Para
+Windows. São Paulo: Érica, 2011. 
