@@ -1,0 +1,49 @@
+SIGLA –INTERNET DAS COISAS E APLICAÇÕES - PRESENCIAL - 80 Aulas
+Competências Profissionais desenvolvidas neste componente
+ Desenvolver objetos inteligentes, com capacidade de interação entre diversas tecnologias e compor o
+cenário de Internet das Coisas.
+ Implementar sistemas interativos, utilizando os métodos e técnicas da Interação Humano Computador
+para Desktop, Web, Tablet, Smartphone e para Internet das Coisas (IoT).
+Competências Socioemocionais
+ Agir com pensamento crítico voltado à resolução de situações-problema.
+Objetivos de Aprendizagem:
+ Analisar projetos para aplicar conceitos de IoT melhorando a interação em
+cenários.  Identificar Sistemas Operacionais e Protocolos para aplicações em Internet das
+Coisas.
+ Desenvolver aplicações para sensores e tags, com foco em WSNs, com
+capacidade de se comunicarem e compartilharem informações de maneiras
+independentes.
+Ementa: Introdução, arquitetura e conceitos para desenvolvimento IoT. Ambiente de
+desenvolvimento. Entradas e saídas digitais e modulação por largura de pulso.
+Sensores analógicos e digitais. Acionamento de sensores e atuadores. Barramentos,
+interface com telas, comunicação sem fio, persistência de dados, conexão com
+protocolos de comunicação. Implementação e uso de dashboard para consolidação
+de dados.
+Metodologia proposta: Aulas Expositivas. Aprendizagem Baseada em
+Projetos/Problemas. Emprego de metodologia ágil para gestão de projetos.
+Gamificação, Sala de Aula Invertida, Estudo de Caso Real. Utilização de simuladores
+e ambientes virtuais.
+Instrumentos de avaliação:
+Avaliação Formativa: Exercícios para prática. Análise e Resolução de Problemas
+acompanhado de rubrica de avaliação.
+Avaliação Somativa: Provas. Projetos. Avaliação em pares. Desafios de Programação
+e Trabalhos Interdisciplinares.
+Bibliografia Básica:
+JEREMY, B., Explorando o Arduino: Técnicas e ferramentas para mágicas de
+engenharia, Rio de Janeiro: Alta Books, 2016
+MAGRANI, Eduardo. A Internet das Coisas. Rio de Janeiro: FGV, 2018.
+SILVA, J. S.; SILVA, BOAVIDA, F. Redes de Sensores SemF. Editora FCA. 2016.
+Bibliografia Complementar:
+BATRINU, C. Projetos de Automação Residencial com ESP8266: Aproveite a
+Potência Deste Minúsculo Chip Wi-Fi Para Construir Incríveis Projetos de Casas
+Inteligentes. São Paulo: Novatec, 2018.
+JEREMY, B., Explorando o Arduino: Técnicas e ferramentas para mágicas de
+engenharia. Rio de Janeiro: Alta Books, 2016
+McKINNEY, W. Python Para Análise de Dados: Tratamento de Dados com Pandas,
+NumPy e IPython. São Paulo: Novatec, 2018.
+MCROBERTS, M. Arduino Básico. São Paulo, Novatec, 2015.
+OLIVEIRA, S. Internet das Coisas com ESP8266, Arduino e Raspberry Pi. São
+Paulo: Novatec, 2017.
+ZANETTI, H.A.P.; OLIVEIRA, C.L.V. Projetos com Python e Arduino: Como
+Desenvolver Projetos Práticos de Eletrônica, Automação e IoT. São Paulo: Editora
+Erica, 2020. 

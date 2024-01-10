@@ -1,0 +1,47 @@
+SIGLA – ESTATÍSTICA APLICADA - PRESENCIAL - 80 Aulas
+Competências Profissionais desenvolvidas neste componente
+ Aplicar princípios de matemática e estatística na solução de problemas complexos.
+Competências Socioemocionais
+ Agir com pensamento crítico voltado à resolução de situações-problema.
+Objetivos de Aprendizagem:
+ Aplicar conceitos de variável aleatória, medidas de posição, dispersão e
+métodos quantitativos, utilizados na estatística para análise de dados, no
+desenvolvimento de novas aplicações.
+ Assim como, analisar resultados, para propor soluções computações aplicando
+conceitos de desvio padrão e intervalo de erro.
+ Conhecer a análise de desempenho no desenvolvimento de aplicações,
+utilizando os conceitos de estatísticas descritos.
+ Junto ao conhecimento de probabilidade, aplicando técnicas de distribuição
+contínua e discreta
+ Reproduzir gráficos, com intervalos de erro e gerar estimativas futuras para
+novas aplicações e projetos.
+Ementa: Amostragem. Probabilidades. Teorema de Bayes. Variáveis Aleatórias.
+Desvio Padrão. Medidas de central. Intervalo de Confiança. Análise de Variância.
+Inferência Estatística. Teste de Hipótese. Regressão Linear.
+Metodologia proposta: Aulas expositivas. Desenvolvimento de Projetos baseados
+em problemas reais. Resolver problemas práticos na área de Ciência de Dados
+Instrumentos de avaliação:
+Avaliação Formativa: Exercícios para prática. Análise e Resolução de Problemas
+acompanhado de rubrica de avaliação Apresentação de Projetos, por meio de Pitch
+para entregas intermediárias.
+Avaliação Somativa: Provas. Projetos. Apresentação de Projetos, por meio de Pitch
+para a entrega final uma apresentação dos resultados obtidos. Inclusão do resultado
+do projeto no Portfólio Digital do aluno. Avaliação em pares e Trabalhos
+Interdisciplinares.
+Bibliografia Básica:
+BUSSAB, W.O. e MORETTIN, P. A. Estatística Básica. 8 ed. São Paulo: Saraiva,
+2013.
+GRUS, J. Data Science do Zero. Rio de Janeiro, Alta Books, 2016.
+MAGALHÃES, M. N. & LIMA, A. C. P. Noções de Probabilidade e Estatística. 7 ed.
+São Paulo: Edusp, 2010.
+TRIOLA, M.F. Introdução à Estatística: Atualização da Tecnologia. 11 ed. Rio de
+Janeiro: LTC, 2011.
+Bibliografia Complementar:
+BRUCE, A., BRUCE, P., Estatística Prática para Cientistas de Dados. Alta Books.
+2019.
+DOWNING, D. JEFFREY, Clark. Estatística Aplicada. 3 ed. São Paulo: Saraiva,
+2011.
+LARSON, R.; FARBER, B. Estatística Aplicada. 6 ed. São Paulo: Pearson 2015.
+TAKAHASHI, S., INOUE, I. Guia Mangá de Análise de Regressão. São Paulo:
+Novatec, 2019.
+TAKAHASHI, S., INOUE, I. Guia Mangá de Estatística. São Paulo: Novatec, 2010.

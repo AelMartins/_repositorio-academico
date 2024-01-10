@@ -1,0 +1,53 @@
+SIGLA – INTEGRAÇÃO E ENTREGA CONTÍNUA – PRESENCIAL – 80 Aulas
+Competências Profissionais desenvolvidas neste componente
+ Planejar a melhor estratégia para documentação e versionamento dos softwares, aplicando
+as melhores práticas do mercado para garantir a integração e entrega contínuas de software.
+Competências Socioemocionais
+ Agir com pensamento crítico voltado à resolução de situações-problema.
+ Demonstrar tendência a ajustar situações e estabelecer acordos.
+Objetivos de Aprendizagem:
+ Conhecer e aplicar conceitos, práticas e padrões relacionados à integração e
+entrega contínua.
+ Compreender a relação entre testes e integração contínua.
+ Avaliar as vantagens e desvantagens da integração e entrega contínua no
+desenvolvimento.
+ Criar e avaliar gráficos.
+ Empregar técnicas de monitoramento de infraestrutura e logs da aplicação.
+Selecionar e avaliar ferramentas para integração e entrega contínua.
+ Conhecer e empregar ferramentas e infraestrutura do ambiente integrado
+(Containers e Docker).
+Ementa: Conceitos de Integração e entrega contínua de software. Gerencia de
+Configuração. Ferramentas de integração e entrega contínua de software. Pipeline:
+para construção de aplicações, para verificação da qualidade do código, configuração
+dos requisitos). Scripts de compilação e implantação. Controle de versão avançado.
+Ferramentas de versionamento de código. Estágios de COMMIT. Testes
+automatizados. Implantação de entrega de versões de aplicações. Gerencia de
+Dados. Gerenciamento de Componentes e dependências. Gerenciamento da entrega
+contínua.
+Metodologia proposta: Aulas Expositivas. Aprendizagem Baseada em
+Projetos/Problemas. Sala de Aula Invertida, Estudo de Caso Real. Utilização
+Ambientes de Virtualização.
+Instrumentos de avaliação:
+Avaliação Formativa: Exercícios para prática. Análise e Resolução de Problemas
+acompanhado de rubrica de avaliação.
+Avaliação Somativa: Provas. Projetos. Avaliação em pares e Trabalhos
+Interdisciplinares.
+Bibliografia Básica:
+HUMBLE J; PRIKLANDNICKI R. Entrega Contínua: Como Entregar Software de
+Forma Rápida e Confiável. São Paulo: Bookman, 2013.
+MUNIZ, A.; et al. Jornada DevOps: Unindo Cultura Ágil, Lean e Tecnologia Para
+Entrega de Software Com Qualidade. São Paulo: Brasport, 2019.
+SATO D. DevOps na prática: entrega de software confiável e automatizada. São
+Paulo: Casa do Código, 2014.
+SILVA, R. Entrega contínua em Android: Como automatizar a distribuição de apps.
+São Paulo: Casa do Código, 2016. 
+Bibliografia Complementar:
+ ARUNDEL, J. DOMINGUS, J. DevOps nativo de nuvem com Kubernetes. São
+Paulo: Novatec, 2019.
+MORAES, G. Caixa de Ferramentas DevOps: Um guia para construção,
+administração e arquitetura de sistemas modernos. São Paulo: Casa do Código, 2015.
+PIRES, A.; MILITÃO, J. Integração Contínua com Jenkins. São Paulo: Casa do
+Código, 2019.
+VITALINO, J. F. N.; CASTRO, M. A. N. Descomplicando o Docker. 2 ed. São Paulo:
+Brasport, 2018.
+SILVERMAN, R. E. Git: guia prático. São Paulo: Novatec, 2019.
