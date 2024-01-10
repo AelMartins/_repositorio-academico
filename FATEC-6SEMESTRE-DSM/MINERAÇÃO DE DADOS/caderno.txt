@@ -1,0 +1,56 @@
+SIGLA- MINERAÇAO DE DADOS– REMOTA – 80 Aulas
+Competências Profissionais desenvolvidas neste componente
+ Propor soluções para mineração de dados, na quais as necessidades dos projetos e as
+situações problema sejam atendidas (Back e Dispositivos Móveis).
+ Modelar e implantar processos de negócio, propor soluções de TI a fim de aumentar a
+competitividade das organizações.
+Competências Socioemocionais
+ Demonstrar capacidade de análise, negociação e tomada de decisão.
+ Demonstrar capacidade de lidar com situações novas.
+ Evidenciar iniciativa e flexibilidade para adaptar-se a novas dinâmicas.
+Objetivos de Aprendizagem:
+ Conhecer e aplicar técnicas de mineração de dados.
+ Entender e aplicar as etapas de pré-processamento e limpeza dos dados
+ Conhecer, compreender e executar as fases da mineração de dados.
+ Conhecer e aplicar algoritmos de aprendizagem neural e estatísticos em
+processos de classificação, agrupamento e associação de dados.
+ Criar soluções para mineração de dados utilizando técnicas e ferramentas de
+Inteligência Artificial.
+ Criar e simular sistemas inteligentes dotados de aquisição/extração automática
+de conhecimentos.
+ Conhecer e compreender sobre o aprendizado supervisionado e não
+supervisionado.
+Ementa: Conceitos Básicos; Descoberta de Conhecimento em Banco de Dados
+(KDD); Pré-processamento de dados: Extract, Transform and Load (ETL), limpeza, transformação, redução de dimensionalidade; Raspagem de dados; Técnicas de
+amostragem; Balanceamento de classes (undersampling e oversampling); Técnicas
+de visualização de dados; Análise descritiva de dados; Análises de redes sociais;
+Business Intelligence.
+Metodologia proposta: Aulas expositivas. Desenvolvimento de Projetos baseados
+em problemas reais. Emprego de metodologia ágil para gestão de projetos. Utilização
+Ambientes de Virtualização e sala de aula invertida.
+Instrumentos de avaliação:
+Avaliação Formativa: Realização de pesquisas para prática. Apresentação de
+Projetos, por meio de Pitch para entregas intermediárias. Análise e Resolução de
+Problemas acompanhado de rubrica de avaliação.
+Avaliação Somativa: Provas. Projetos. Apresentação de Projetos, por meio de Pitch
+para entregas para a entrega final e validação do projeto para inclusão no Portifólio
+Digital do Aluno. Trabalhos Interdisciplinares.
+Bibliografia Básica
+CASTRO, L.N. FERRARI, D.G. Introdução à Mineração de Dados: Conceitos
+básicos, algoritmos e aplicações. São Paulo: Saraiva, 2016
+GRUS, JOEL. Data Science do Zero. Rio de Janeiro: Alta Books, 2016.
+KUMAR, V., STEINBACH, M., TAN, P.N., Introdução ao Data Mining: Mineração de
+Dados. Rio de Janeiro: Ciência Moderna, 2009.
+RUSSELL, M.A. Mineração de Dados da Web Social: Análise de dados do
+Facebook, Twitter, LinkedIn e outros sites de mídia social. São Paulo: Novatec, 2019
+TAN, P.; STEINBACH, M; KUMAR, V. Introdução ao Data Mining. Rio de Janeiro:
+Ciência Moderna, 2009
+Bibliografia Complementar:
+CASTRO, L. N.; FERRARI, D. G. Introdução à Mineração de Dados: conceitos:
+básicos, algoritmos e aplicações. São Paulo: Saraiva, 2016.
+MCKINNEY, W. Python Para Análise de Dados: Tratamento de Dados com Pandas,
+NumPy e IPython. São Paulo: Novatec, 2018.
+MITCHELL, R. Web Scraping com Python: Coletando mais dados da web moderna.
+São Paulo: Novatec, 2019.
+SILVA, L. A; PERES, S. M., BOSCARIOLI C. Introdução à Mineração de Dados:
+Com Aplicações em R. Rio de Janeiro: Elsevier Brasil, 2017.

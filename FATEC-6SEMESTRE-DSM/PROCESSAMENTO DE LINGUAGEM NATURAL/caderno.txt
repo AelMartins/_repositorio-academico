@@ -1,0 +1,52 @@
+SIGLA – PROCESSAMENTO DE LINGUAGEM NATURAL – REMOTA – 80 Aulas
+Competências Profissionais desenvolvidas neste componente
+ Selecionar e empregar tecnologias de inteligência artificial aplicáveis ao desenvolvimento de
+aplicações para dispositivos móveis e web.
+Competências Socioemocionais
+ Agir com pensamento crítico voltado à resolução de situações-problema.
+Objetivos de Aprendizagem:
+ Empregar técnicas e teorias de Inteligência Artificial aplicada ao
+Processamento de Linguagem Natural.
+ Conhecer e aplicar técnicas e métodos para construção de recursos,
+ferramentas e aplicações de PLN.
+ Construir mecanismos artificias que permitam o entendimento de linguagem
+natural para realizar tarefas ou aplicações.
+ Empregar linguagens de programação para o desenvolvimento de soluções.
+Ementa: Processamento de linguagem natural. Aplicações de processamento de
+linguagem natural. Processamento de texto. Extração de características (features).
+Análise sintática. Interpretação semântica. Gramáticas. Descoberta de conhecimento
+em textos (Knowledge Discovery in Texts). Análise de sentimentos. Aprendizagem
+de máquina aplicada ao processamento de linguagem natural. Reconhecimento de
+voz.
+Metodologia proposta: Aulas expositivas. Desenvolvimento de Projetos baseados
+em problemas reais. Emprego de metodologia ágil para gestão de projetos. Utilização
+Ambientes de Virtualização e sala de aula invertida.
+Instrumentos de avaliação:
+Avaliação Formativa: Realização de pesquisas para prática. Apresentação de
+Projetos, por meio de Pitch para entregas intermediárias. Análise e Resolução de
+Problemas acompanhado de rubrica de avaliação.
+Avaliação Somativa: Provas. Projetos. Apresentação de Projetos, por meio de Pitch
+para entregas para a entrega final e validação do projeto para inclusão no Portfólio
+Digital do aluno. Trabalhos Interdisciplinares.
+Bibliografia Básica:
+FERREIRA, M., LOPES, M. Para conhecer linguística computacional. São Paulo:
+Contexto, 2019
+RAJ, S. Construindo Chatbots com Python: Usando Natural Language Processing
+e Machine Learning. São Paulo: Novatec, 2019.
+RUSSEL, M.A. Mineração de Dados da Web Social: Análise de dados do Facebook,
+Twitter, Linkedin e outros sites de mídia social. São Paulo: Novatec, 2019.
+Bibliografia Complementar:
+GÉRON, A. Mãos à Obra: Aprendizado de Máquina com Scikit-Learn & TensorFlow.
+Rio de Janeiro: Alta Books, 2019.
+HOBSON, L., COLE, H., HANNES, H. Natural Language Processing in Action:
+Understanding, analyzing, and generating text with Python. Manning, 2019.
+MCKINNEY, W. Python Para Análise de Dados: Tratamento de Dados com Pandas,
+NumPy e IPython. São Paulo: Novatec, 2018.
+MUELLER, J. P., MASSARON, L. Python Para Data Science Para Leigos. Rio de
+Janeiro: Alta Books, 2020.
+TAKAHASHI, S., INOUE, I. Guia Mangá de Análise de Regressão. São Paulo:
+Novatec, 2019.
+TAKAHASHI, S., INOUE, I. Guia Mangá de Estatística. São Paulo: Novatec, 2010. 
+VAJJATA, S., MAJUMDER, B., GUPTA, A., SURANA, H. Practical Natural Language
+Processing: A Comprehensive Guide to Building Real-World NLP Systems. O'Reilly
+Media, 2020. 

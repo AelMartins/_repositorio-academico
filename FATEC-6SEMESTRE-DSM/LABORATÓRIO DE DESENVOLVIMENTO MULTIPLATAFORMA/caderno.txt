@@ -1,0 +1,70 @@
+SIGLA – LABORATÓRIO DE DESENVOLVIMENTO MULTIPLATAFORMA–
+SEMIPRESENCIAL – 60 Aulas Remotas e 20 Aulas Presenciais (5 encontros
+presencias)
+Competências Profissionais desenvolvidas neste componente
+ Empreender, exercer a liderança, identificar oportunidades de mudanças e projetar soluções
+inovadoras baseadas em tecnologias da informação nas organizações.
+ Todas as competências desenvolvidas, do primeiro ao sexto semestres, poderão ser
+associadas no desenvolvimento do projeto desta disciplina.
+Competências Socioemocionais
+ Agir com pensamento crítico voltado à resolução de situações-problema.
+ Atuar com liderança em função dos contextos do trabalho.
+ Atuar de forma colaborativa quando do trabalho em equipe.
+ Contribuir para o alcance de objetivos comuns.
+ Demonstrar capacidade de adotar em tempo hábil a solução mais adequada entre possíveis
+alternativas.
+ Demonstrar habilidade para escutar atentamente seu interlocutor.
+ Demonstrar tendência a ajustar situações e estabelecer acordos.
+ Evidenciar desinibição e desprendimento para lidar com pessoas de cargos superiores.
+Objetivos de Aprendizagem:
+ Implementar um software aplicando conhecimentos de engenharia de software,
+programação e gerência de projetos.
+ Utilizar desenvolvimento front-end e back-end integrando as aplicações
+desktop, web e mobile em projetos que atendam aos requisitos de
+transparência das aplicações.
+ Utilizar sensores IOT para captura de dados que serão tratados nas aplicações
+desenvolvidas.
+Ementa: Desenvolvimento de um software para Dispositivo Móvel, Web e Desktop,,
+empregando: Técnicas de Sistemas Distribuídos (Concorrência, Openness,
+Escalabilidade), Protocolos de Mensageria para intercomunicação de sistemas,
+Técnicas para construção/uso de Brokers de recepção de dados, Técnicas para
+armazenamento de dados em grande escala, Técnicas de mineração de dados em
+tempo real (Data Streaming). Desenvolvimento Dirigido a testes (TDD). Controle de
+versionamento.
+Metodologia proposta: Aprendizagem Baseada em Problemas/Projetos/Desafios.
+Emprego de metodologia ágil para gestão de projetos. Nesta disciplina o professor é
+responsável por desenvolver um projeto integrando as disciplinas do primeiro ao sexto
+semestre, seguindo o Manual de Projetos Interdisciplinares expedido pela CESU.
+Instrumentos de avaliação:
+Avaliação Formativa: Exercícios para prática. Análise e Resolução de Problemas
+acompanhado de rubrica de avaliação. Apresentação de Projetos, por meio de Pitch
+para entregas intermediárias. Desafios de Programação.
+Avaliação Somativa: Provas. Projetos. Apresentação de Projetos, por meio de Pitch
+para a entrega final uma apresentação dos resultados obtidos. Validação do projeto
+Inclusão do resultado no Portfólio Digital do aluno. Avaliação em pares e Trabalhos
+Interdisciplinares. 
+Bibliografia Básica:
+BROWN, E. Programação web com Node e Express: Beneficiando-se da stack
+JavaScript. São Paulo: Novatec, 2020.
+DUCKETT, J. JAVASCRIPT e JQUERY: Desenvolvimento de Interfaces Web
+Interativas. Rio de Janeiro: Alta Books, 2016
+GRANT, W. UX Design: guia definitivo com as melhores práticas de UX. São Paulo:
+Novatec, 2019.
+DABIT, NADER; React Native in Action Developing iOS and Android apps with
+JavaScript, Manning Publications, 2019.
+CRUZ, F. SCRUM e Agile em Projetos Guia Completo: conquiste sua certificação e
+aprenda a usar métodos ágeis no seu dia a dia. 2 ed. São Paulo: Brasport, 2018.
+LOPES, S. Aplicações mobile híbridas com Cordova e PhoneGap. São Paulo:
+Casa do Código,2016.
+NEIL, T. Padrões de design para aplicativos móveis. São Paulo: Novatec 2012.
+SARAH. A. Desenvolvimento Profissional Multiplataforma para Smartphone. Rio
+de Janeiro, 2012.
+Bibliografia Complementar:
+COULOURIS, G. Sistemas Distribuídos: Conceitos e Projetos. Bookman, 2013.
+MAGRANI, Eduardo. A Internet das Coisas. Rio de Janeiro: FGV, 2018.
+MUELLER J. P. Segurança para desenvolvedores web. São Paulo: Novatec,2016.
+TANENBAUM, A. S. Sistemas Distribuídos Princípios e Paradigmas. Pearson,
+2017.
+SHENOY, A.; PRABHU A. Introdução ao SEO: Seu Guia Rápido às Práticas
+Eficientes de SEO. São Paulo: Novatec, 2016.
+SILVERMAN, R. E. Git: guia prático. São Paulo: Novatec, 2019. 

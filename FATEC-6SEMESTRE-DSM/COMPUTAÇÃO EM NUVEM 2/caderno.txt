@@ -1,0 +1,47 @@
+SIGLA- COMPUTAÇÃO EM NUVEM II – REMOTA - 80 Aulas
+Competências Profissionais desenvolvidas neste componente
+ Identificar as necessidades dos projetos buscando adaptá-las aos mais diversos meios de
+hospedagem, Compartilhado, Cloud, Virtual Private Server, Colocation e Servidor Dedicado,
+utilizando o recurso adequado de cada um.
+ Implantar sistemas nas diversas infraestruturas de Redes de Computadores, buscando a
+melhor performance.
+Competências Socioemocionais
+ Demonstrar capacidade de lidar com situações novas.
+ Evidenciar iniciativa e flexibilidade para adaptar-se a novas dinâmicas.
+Objetivos de Aprendizagem:
+ Identificar e criar um ambiente de Computação em Nuvem, utilizando princípios
+de alta disponibilidade.
+ Identificar e migrar uma estrutura baseada em Data Center Local para a uma
+solução em nuvem.
+ Projetar e operar arquiteturas de sistemas confiáveis, seguros, eficientes e
+econômicos na nuvem.
+Ementa: Modelos de Negócios na Nuvem. Armazenamento de Dados em Nuvem (File
+System em Nuvem). Gerenciamento de Dados em Nuvem e Backup Remoto.
+Gerenciamento e Monitoramento de Serviços em Nuvem. Aplicações em Nuvem
+(Azure / AWS / Google Cloud). Migração de Aplicações para Nuvem. Desenvolvimento
+de Software com a Nuvem. Replicação de Serviços e Dados em Nuvem
+Metodologia proposta: Aulas expositivas. Desenvolvimento de Projetos baseados
+em problemas reais. Emprego de metodologia ágil para gestão de projetos. Utilização
+Ambientes de Virtualização e sala de aula invertida.
+Instrumentos de avaliação:
+Avaliação Formativa: Realização de pesquisas para prática. Apresentação de
+Projetos, por meio de Pitch para entregas intermediárias. Análise e Resolução de
+Problemas acompanhado de rubrica de avaliação.
+Avaliação Somativa: Provas. Projetos. Apresentação de Projetos, por meio de Pitch
+para entregas para a entrega final e validação do projeto para inclusão no Portfólio
+Digital do aluno. Trabalhos Interdisciplinares.
+Bibliografia Básica:
+LECHETA, Ricardo R. AWS para desenvolvedores. São Paulo: Novatec, 2014.
+MOLINARI, L. Cloud Computing: A inteligência na nuvem e seu novo valor em TI.
+São Paulo: Érica/Saraiva, 2017.
+VELTE, A. Cloud Computing. Computação em Nuvem: uma Abordagem Prática.
+São Paulo: Alta Books, 2015.
+Bibliografia Complementar:
+ARUNDEL J.; DOMINGUS J.; DevOps Nativo de Nuvem com Kubernetes: Como
+Construir, Implantar e Escalar Aplicações Modernas na Nuvem. São Paulo: Novatec,
+2019
+KAVIS, Michael J. Architecting the Cloud: Design Decisions for Cloud Computing
+Service Models (SaaS, PaaS and IaaS). Wiley, 2014.
+PORTNOY, M. Virtualization Essentials. New York: Sybex, 2012.
+ STIGLER, M. Beginning Serverless Computing: Developing with Amazon Web
+Services, Microsoft Azure, and Google Cloud. Apress, 2017. 
