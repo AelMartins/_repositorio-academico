@@ -1,55 +1,69 @@
-0000 – DESENVOLVIMENTO WEB I – PRESENCIAL - 80 Aulas
-Competências Profissionais desenvolvidas neste componente
- Analisar e corrigir, scripts maliciosos, Cross-Site-Scripting buscando um padrão de
-segurança recomendado no desenvolvimento das aplicações.
- Construir páginas web utilizando linguagem de marcação de acordo com a necessidade do
-segmento ou projeto buscando recursos que sejam adaptados aos mais diversos
-dispositivos.
-Competências Socioemocionais
- Agir com pensamento crítico voltado à resolução de situações-problema
- Demonstrar capacidade de lidar com situações novas.
- Evidenciar iniciativa e flexibilidade para adaptar-se a novas dinâmicas.
+O texto a seguir é uma parte recortada da documentação oficial da FATEC referente ao programa de ensino do curso DSM a despeito da matéria "DESENVOLVIMENTO WEB I".
+
+[...]
+
+DESENVOLVIMENTO WEB I – PRESENCIAL - 80 Aulas
+
+Competências Profissionais desenvolvidas neste componente:
+-> Analisar e corrigir, scripts maliciosos, Cross-Site-Scripting buscando um padrão de segurança recomendado no desenvolvimento das aplicações.
+-> Construir páginas web utilizando linguagem de marcação de acordo com a necessidade do segmento ou projeto buscando recursos que sejam adaptados aos mais diversos dispositivos.
+
+Competências Socioemocionais:
+-> Agir com pensamento crítico voltado à resolução de situações-problema.
+-> Demonstrar capacidade de lidar com situações novas.
+-> Evidenciar iniciativa e flexibilidade para adaptar-se a novas dinâmicas.
+
 Objetivos de Aprendizagem:
- Definir as etapas necessárias para elaboração de páginas para internet
-identificando suas principais estruturas. Criar folhas de estilo que atendam
-requisitos funcionais e não funcionais do projeto.
- Utilizar linguagem de marcação de hipertexto para definir a estrutura, aplicar
-folhas de estilo buscando a aparência e apresentação e a linguagem script para
-a funcionalidade e comportamento das páginas web. Conhecer frameworks de
-desenvolvimento front-end.
- Empregar o versionamento na elaboração dos códigos. 
-Ementa: Linguagem de marcação de hipertexto para estruturação de conteúdo.
-Tecnologias para estilização de conteúdo. Esquemas de posicionamento. Construção
-de layout. Framework para desenvolvimento responsivo e página única. Noções de
-linguagens de script aplicadas à interatividade do usuário com um Front-End.
-Processamento script lado cliente/servidor. Biblioteca Javascript cross-browser.
-Sistemas de gestão de configuração de código-fonte. Utilização de servidores de
-desenvolvimento para implantação local de sistemas web. Controle de
-versionamento.
-Metodologia proposta: Aulas Expositivas. Aprendizagem Baseada em
-Projetos/Problemas. Gamificação.
+-> Definir as etapas necessárias para elaboração de páginas para internet identificando suas principais estruturas.
+-> Criar folhas de estilo que atendam requisitos funcionais e não funcionais do projeto.
+-> Utilizar linguagem de marcação de hipertexto para definir a estrutura, aplicar folhas de estilo buscando a aparência e apresentação e a linguagem script para a funcionalidade e comportamento das páginas web.
+-> Conhecer frameworks de desenvolvimento front-end.
+-> Empregar o versionamento na elaboração dos códigos. 
+
+Ementa:
+	. Linguagem de marcação de hipertexto para estruturação de conteúdo;
+	. Tecnologias para estilização de conteúdo;
+	. Esquemas de posicionamento;
+	. Construção de layout;
+	. Framework para desenvolvimento responsivo e página única;
+	. Noções de linguagens de script aplicadas à interatividade do usuário com um Front-End;
+	. Processamento script lado cliente/servidor;
+	. Biblioteca Javascript cross-browser;
+	. Sistemas de gestão de configuração de código-fonte;
+	. Utilização de servidores de desenvolvimento para implantação local de sistemas web;
+	. Controle de versionamento.
+
+Metodologia proposta: 
+	. Aulas Expositivas;
+	. Aprendizagem Baseada em Projetos/Problemas;
+	. Gamificação.
+
 Instrumentos de avaliação:
-Avaliação Formativa: Exercícios para prática. Análise e Resolução de Problemas
-acompanhado de rubrica de avaliação.
-Avaliação Somativa: Provas. Projetos. Avaliação em pares. Desafios de Programação
-e Trabalhos Interdisciplinares.
+
+	Avaliação Formativa:
+		. Exercícios para prática;
+		. Análise e Resolução de Problemas acompanhado de rubrica de avaliação.
+
+	Avaliação Somativa:
+		. Provas;
+		. Projetos;
+		. Avaliação em pares;
+		. Desafios de Programação e Trabalhos Interdisciplinares.
+
 Bibliografia Básica:
-MEYER, E. S. CSS - técnicas profissionais para um layout moderno. Porto Alegre:
-Bookman, 2011.
-POWERS, S. Aprendendo JavaScript. São Paulo: Novatec, 2010.
-PETRUCELLI, E. E. HTML5, CSS e JavaScript. Brasília: NT Editora, 2019.
-DUCKETT, J. HTML e CSS: Projete e Construa Websites. Rio de Janeiro: Alta Books.
-2016. 
-SILVERMAN, R.E. Git: Guia prático. São Paulo: Novatec, 2019.
-GRINBERG, M. Desenvolvimento web com Flask: Desenvolvendo aplicações web
-com Python. São Paulo: Novatec, 2019.
+
+[MEYER, E. S. CSS - técnicas profissionais para um layout moderno. Porto Alegre: Bookman, 2011.]
+[POWERS, S. Aprendendo JavaScript. São Paulo: Novatec, 2010.]
+[PETRUCELLI, E. E. HTML5, CSS e JavaScript. Brasília: NT Editora, 2019.]
+[DUCKETT, J. HTML e CSS: Projete e Construa Websites. Rio de Janeiro: Alta Books. 2016.]
+[SILVERMAN, R.E. Git: Guia prático. São Paulo: Novatec, 2019.]
+[GRINBERG, M. Desenvolvimento web com Flask: Desenvolvendo aplicações web com Python. São Paulo: Novatec, 2019.]
+
 Bibliografia Complementar:
-GOMES, A. L. XHTML/CSS: criação de páginas web (Informática). São Paulo: Editora
-Senac, 2019.
-QUIERELLI, D. A. Criando sites com HTML-CSS-PHP: Construindo um projeto -
-Iniciante. Joinville: Clube dos Autores, 2012.
-TITTEL, E., NOBLE, J. HTML, XHTML e CSS Para Leigos. Rio de Janeiro: Alta
-Books, 2014
+[GOMES, A. L. XHTML/CSS: criação de páginas web (Informática). São Paulo: Editora Senac, 2019.]
+[QUIERELLI, D. A. Criando sites com HTML-CSS-PHP: Construindo um projeto - Iniciante. Joinville: Clube dos Autores, 2012.]
+[TITTEL, E., NOBLE, J. HTML, XHTML e CSS Para Leigos. Rio de Janeiro: Alta Books, 2014.]
+
 Referência:
 Apache Http Server Documentation. Disponível em https://httpd.apache.org/docs/
 Acesso em: 22 de setembro de 2020.
