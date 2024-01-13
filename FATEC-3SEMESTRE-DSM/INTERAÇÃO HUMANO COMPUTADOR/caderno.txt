@@ -1,50 +1,67 @@
-SIGLA – INTERAÇÃO HUMANO COMPUTADOR – PRESENCIAL – 40 Aulas
-Competências Profissionais desenvolvidas neste componente
- Aplicar métricas de usabilidade e elaborar avaliações Heurísticas e Inspeção Semiótica.
- Implementar sistemas interativos utilizando os métodos e técnicas da Interação Humano
-Computador para Desktop, Web, Tablet, Smartphone e para Internet das Coisas (IoT).
-Competências Socioemocionais
- Responder com empatia a emoções e necessidades manifestadas por outras pessoas.
+O texto a seguir é uma parte recortada da documentação oficial da FATEC referente ao programa de ensino do curso DSM a despeito da matéria "INTERAÇÃO HUMANO COMPUTADOR".
+
+[...]
+
+INTERAÇÃO HUMANO COMPUTADOR – PRESENCIAL – 40 Aulas
+
+Competências Profissionais desenvolvidas neste componente:
+-> Aplicar métricas de usabilidade e elaborar avaliações Heurísticas e Inspeção Semiótica.
+-> Implementar sistemas interativos utilizando os métodos e técnicas da Interação Humano Computador para Desktop, Web, Tablet, Smartphone e para Internet das Coisas (IoT).
+
+Competências Socioemocionais:
+-> Responder com empatia a emoções e necessidades manifestadas por outras pessoas.
+
 Objetivos de Aprendizagem:
- Conhecer a aplicar conceitos, modelos e técnicas de Interação Humano
-Computador.
- Projetar e avaliar sistemas computacionais interativos utilizando os princípios
-de usabilidade e acessibilidade.
- Conhecer e avaliar as implicações da fisiologia, psicologia e cognição na
-interatividade dos sistemas computacionais.
- Aplicar os conceitos da Engenharia Semiótica no desenvolvimento e avaliação
-de sistemas.
- Criar sistemas que ofereçam acessibilidade.
- Conhecer e utilizar técnicas de desenvolvimento de interfaces centradas no
-usuário
-Ementa: Interface, Interação e Affordance; Usabilidade, Acessibilidade e
-Comunicabilidade; Arquitetura da Informação. Identificação das necessidades dos
-usuários e requisitos de IHC. Projeto e prototipação (Baixa, média e alta fidelidade):
-recomendações, modelos e notações de design. Avaliação Heurística. Avaliação de
-Comunicabilidade. Inspeção Semiótica. Teste de Usabilidade. 
-Metodologia proposta: Aulas Expositivas. Design Thinking. Aprendizagem Baseada
-em Projetos/Problemas. Emprego de metodologia ágil para gestão de projetos.
-Gamificação, Estudo de Caso Real.
+-> Conhecer a aplicar conceitos, modelos e técnicas de Interação Humano Computador.
+-> Projetar e avaliar sistemas computacionais interativos utilizando os princípios de usabilidade e acessibilidade.
+-> Conhecer e avaliar as implicações da fisiologia, psicologia e cognição na interatividade dos sistemas computacionais.
+-> Aplicar os conceitos da Engenharia Semiótica no desenvolvimento e avaliação de sistemas.
+-> Criar sistemas que ofereçam acessibilidade.
+-> Conhecer e utilizar técnicas de desenvolvimento de interfaces centradas no usuário
+
+Ementa:
+	. Interface, Interação e Affordance;
+	. Usabilidade, Acessibilidade e Comunicabilidade;
+	. Arquitetura da Informação;
+	. Identificação das necessidades dos usuários e requisitos de IHC;
+	. Projeto e prototipação (Baixa, média e alta fidelidade): recomendações, modelos e notações de design;
+	. Avaliação Heurística;
+	. Avaliação de Comunicabilidade;
+	. Inspeção Semiótica;
+	. Teste de Usabilidade.
+
+Metodologia proposta:
+	. Aulas Expositivas;
+	. Design Thinking;
+	. Aprendizagem baseada em Projetos/Problemas;
+	. Emprego de metodologia ágil para gestão de projetos;
+	. Gamificação;
+	. Estudo de Caso Real.
+
 Instrumentos de avaliação:
-Avaliação Formativa: Exercícios para prática. Análise e Resolução de Problemas
-acompanhado de rubrica de avaliação
-Avaliação Somativa: Provas. Projetos. Avaliação em pares e Trabalhos
-Interdisciplinares. Validação do projeto para inclusão no Portfólio Digital do aluno.
+
+	Avaliação Formativa:
+		. Exercícios para prática;
+		. Análise;
+		. Resolução de Problemas acompanhado de rubrica de avaliação.
+
+	Avaliação Somativa:
+		. Provas;
+		. Projetos;
+		. Avaliação em pares;
+		. Trabalhos Interdisciplinares;
+		. Validação do projeto para inclusão no Portfólio Digital do aluno.
+
 Bibliografia Básica:
-BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Rio de Janeiro:
-Elsevier-Campus, 2010.
-BENYON, D. Interação Humano Computador. 2 ed. São Paulo: Pearson Prentice
-Hall, 2011.
-CAMARGO, L. S. A.; VIDOTTI, S. A. B. G. Arquitetura da informação: uma
-abordagem prática para o tratamento de conteúdo e interfaces em ambientes
-informacionais digitais. Rio de Janeiro, Altas Books 2019.
-CYBIS, W.; BETIOL, A. H. e FAUST, R. Ergonomia e Usabilidade: Conhecimentos,
-Métodos e Aplicações. 2 ed. São Paulo: Novatec, 2010.
+
+[BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Rio de Janeiro: Elsevier-Campus, 2010.]
+[BENYON, D. Interação Humano Computador. 2 ed. São Paulo: Pearson Prentice Hall, 2011.]
+[CAMARGO, L. S. A.; VIDOTTI, S. A. B. G. Arquitetura da informação: uma abordagem prática para o tratamento de conteúdo e interfaces em ambientes informacionais digitais. Rio de Janeiro, Altas Books 2019.]
+[CYBIS, W.; BETIOL, A. H. e FAUST, R. Ergonomia e Usabilidade: Conhecimentos, Métodos e Aplicações. 2 ed. São Paulo: Novatec, 2010.]
+
 Bibliografia Complementar:
-LOWDERMILK, T. Design Centrado no Usuário: um guia para o desenvolvimento
-de aplicativos amigáveis. São Paulo: Novatec, 2013.
-MELO, A.; ABELHEIRA, R. Design Thinking e Thinking Design: Metodologia,
-ferramentas e uma reflexão sobre o tema. São Paulo: Novatec, 2015.
-MEW, k. Aprendendo Material Design: domine o Material Design e crie Interfaces
-bonitas e animadas para aplicativos móveis e web. São Paulo, Novatec,2016.
-NIELSEN, J.; BUDIU, R. Usabilidade Móvel. São Paulo: Campus, 2013. 
+
+[LOWDERMILK, T. Design Centrado no Usuário: um guia para o desenvolvimento de aplicativos amigáveis. São Paulo: Novatec, 2013.]
+[MELO, A.; ABELHEIRA, R. Design Thinking e Thinking Design: Metodologia, ferramentas e uma reflexão sobre o tema. São Paulo: Novatec, 2015.]
+[MEW, k. Aprendendo Material Design: domine o Material Design e crie Interfaces bonitas e animadas para aplicativos móveis e web. São Paulo, Novatec,2016.]
+[NIELSEN, J.; BUDIU, R. Usabilidade Móvel. São Paulo: Campus, 2013.]

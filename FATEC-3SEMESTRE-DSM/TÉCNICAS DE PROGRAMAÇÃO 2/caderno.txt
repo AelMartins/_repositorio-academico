@@ -1,49 +1,63 @@
-SIGLA – TÉCNICA DE PROGRAMAÇÃO II – PRESENCIAL - 80 Aulas
-Competências Profissionais desenvolvidas neste componente
- Empregar linguagens de Programação Orientada a Objetos e utilizar Padrões de Projetos no
-desenvolvimento de aplicações.
-Competências Socioemocionais
- Agir com pensamento crítico voltado à resolução de situações-problema.
- Demonstrar capacidade de lidar com situações novas.
- Evidenciar iniciativa e flexibilidade para adaptar-se a novas dinâmicas
+O texto a seguir é uma parte recortada da documentação oficial da FATEC referente ao programa de ensino do curso DSM a despeito da matéria "TÉCNICA DE PROGRAMAÇÃO II".
+
+[...]
+
+TÉCNICA DE PROGRAMAÇÃO II – PRESENCIAL - 80 Aulas
+
+Competências Profissionais desenvolvidas neste componente:
+-> Empregar linguagens de Programação Orientada a Objetos e utilizar Padrões de Projetos no desenvolvimento de aplicações.
+
+Competências Socioemocionais:
+-> Agir com pensamento crítico voltado à resolução de situações-problema.
+-> Demonstrar capacidade de lidar com situações novas.
+-> Evidenciar iniciativa e flexibilidade para adaptar-se a novas dinâmicas
+
 Objetivos de Aprendizagem:
- Utilizar linguagem de programação orientada a objetos aplicando conceitos de
-Padrões de Projetos;
- Aplicar no desenvolvimento do código padrões de criação responsáveis por
-abstrair a construção dos objetos;
- Empregar padrões estruturais com o objetivo de realizar o relacionamento entre
-as entidades para facilitar o design do sistema/aplicação;
- Utilizar padrões comportamentais que tem como principal responsabilidade
-facilitar a comunicação entre os objetos;
- Aplicar versionamento e documentação da aplicação.
-Ementa: Padrões de projeto Orientados a Objetos. Padrões Fundamentais GoF.
-Padrões arquiteturais: Model View Controller (MVC), Model-View-ViewModel (MVVM)
-e Model View Presenter (MVP). Desenvolvimento utilizando banco de dados para
-adicionar, apagar, atualizar e pesquisar. Persistência de dados utilizando frameworks.
-de interface gráfica. Desenvolvimento Dirigido a Testes (TDD). Controle de
-versionamento.
-Metodologia proposta: Aulas Expositivas. Aprendizagem Baseada em
-Projetos/Problemas. Gamificação. Coding Dojo.
+-> Utilizar linguagem de programação orientada a objetos aplicando conceitos de Padrões de Projetos.
+-> Aplicar no desenvolvimento do código padrões de criação responsáveis por abstrair a construção dos objetos.
+-> Empregar padrões estruturais com o objetivo de realizar o relacionamento entre as entidades para facilitar o design do sistema/aplicação.
+-> Utilizar padrões comportamentais que tem como principal responsabilidade facilitar a comunicação entre os objetos.
+-> Aplicar versionamento e documentação da aplicação.
+
+Ementa:
+	. Padrões de projeto Orientados a Objetos;
+	. Padrões Fundamentais GoF;
+	. Padrões arquiteturais: Model View Controller (MVC), Model-View-ViewModel (MVVM) e Model View Presenter (MVP);
+	. Desenvolvimento utilizando banco de dados para adicionar, apagar, atualizar e pesquisar;
+	. Persistência de dados utilizando frameworks de interface gráfica;
+	. Desenvolvimento Dirigido a Testes (TDD);
+	. Controle de versionamento.
+
+Metodologia proposta:
+	. Aulas Expositivas;
+	. Aprendizagem baseada em Projetos/Problemas;
+	. Gamificação;
+	. Coding Dojo.
+
 Instrumentos de avaliação:
-Avaliação Formativa: Exercícios para prática. Análise e Resolução de Problemas
-acompanhado de rubrica de avaliação.
-Avaliação Somativa: Provas. Projetos. Avaliação em pares. Desafios de Programação
-e Trabalhos Interdisciplinares.
+
+	Avaliação Formativa:
+		. Exercícios para prática;
+		. Análise;
+		. Resolução de Problemas acompanhado de rubrica de avaliação.
+
+	Avaliação Somativa:
+		. Provas;
+		. Projetos;
+		. Avaliação em pares;
+		. Desafios de Programação;
+		. Trabalhos Interdisciplinares.
+
 Bibliografia Básica:
-GAMMA, E. et al. Padrões de Projetos: Soluções Reutilizáveis de Software
-Orientados a Objetos. Porto Alegre: Bookman, 2015
-FREEMAN, E.; FREEMAN E. Use a Cabeça! Padrões de Projetos. 2 ed. Rio de
-Janeiro: Alta Books, 2007.
-KENT, B. TDD - Desenvolvimento Guiado Por Testes. Porto Alegre: Bookman,2010.
-SANDERS, W. Aprendendo Padrões de Projeto em PHP: Programação Orientada
-a Objetos Para Projetos Dinâmicos. São Paulo: Novatec, 2013.
+
+[GAMMA, E. et al. Padrões de Projetos: Soluções Reutilizáveis de Software Orientados a Objetos. Porto Alegre: Bookman, 2015.]
+[FREEMAN, E.; FREEMAN E. Use a Cabeça! Padrões de Projetos. 2 ed. Rio de Janeiro: Alta Books, 2007.]
+[KENT, B. TDD - Desenvolvimento Guiado Por Testes. Porto Alegre: Bookman, 2010.]
+[SANDERS, W. Aprendendo Padrões de Projeto em PHP: Programação Orientada a Objetos Para Projetos Dinâmicos. São Paulo: Novatec, 2013.]
+
 Bibliografia Complementar:
-EVANS, E. DOMAIN-DRIVEN DESIGN. Rio de Janeiro: Alta Books, 2020. 
-FEATHERS, M. C. Trabalho Eficaz Com Código Legado. Porto Alegre: Bookman,
-2013.
-GIRIDHAR, C. Aprendendo Padrões de Projeto em Python: Tire Proveito da
-Eficácia dos Padrões de Projeto (design Patterns) em Python Para Resolver
-Problemas do Mundo Real em Arquitetura e Design de Software. São Paulo:
-Novatec,2016.
-GUERRA, E. Design Patterns com Java: Projeto Orientado a Objetos guiado por
-Padrões. São Paulo: Casa do Código. 2014. 
+
+[EVANS, E. DOMAIN-DRIVEN DESIGN. Rio de Janeiro: Alta Books, 2020.]
+[FEATHERS, M. C. Trabalho Eficaz Com Código Legado. Porto Alegre: Bookman, 2013.]
+[GIRIDHAR, C. Aprendendo Padrões de Projeto em Python: Tire Proveito da Eficácia dos Padrões de Projeto (design Patterns) em Python Para Resolver Problemas do Mundo Real em Arquitetura e Design de Software. São Paulo: Novatec,2016.]
+[GUERRA, E. Design Patterns com Java: Projeto Orientado a Objetos guiado por Padrões. São Paulo: Casa do Código. 2014.]

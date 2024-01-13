@@ -1,38 +1,64 @@
-SIGLA – ÁLGEBRA LINEAR- PRESENCIAL- 80 Aulas
-Competências Profissionais desenvolvidas neste componente
- Aplicar conceitos de álgebra no desenvolvimento de aplicações e sistemas.
-Competências Socioemocionais
- Agir com pensamento crítico voltado à resolução de situações-problema.
+O texto a seguir é uma parte recortada da documentação oficial da FATEC referente ao programa de ensino do curso DSM a despeito da matéria "ÁLGEBRA LINEAR".
+
+[...]
+
+ÁLGEBRA LINEAR - PRESENCIAL - 80 Aulas
+
+Competências Profissionais desenvolvidas neste componente:
+-> Aplicar conceitos de álgebra no desenvolvimento de aplicações e sistemas.
+
+Competências Socioemocionais:
+-> Agir com pensamento crítico voltado à resolução de situações-problema.
+
 Objetivos de Aprendizagem:
- Conhecer e utilizar vetores, espaços vetoriais, transformações lineares,
-sistemas de equações lineares e matrizes, para a aprimorar as técnicas de
-desenvolvimento de algoritmos para Inteligência Artificial, e a análise e
-desempenho de Rede de Computadores.
- Conhecer e empregar os conceitos de matrizes para uma melhor eficiência em
-tempo de processamento, no desenvolvimento de programas.
- Criar modelos matemáticos para soluções de problemas.
-Ementa: Vetores, Espaços Vetoriais, Transformações Lineares, Matrizes,
-Determinantes, Dependência Linear, Autovalores e Autovetores, Diagonalização.
-Metodologia proposta: Aulas expositivas. Desenvolvimento de Projetos baseados em
-problemas reais, Emprego de metodologia ágil para gestão de projetos. Utilização
-Ambientes de Virtualização e sala de aula invertida.
+-> Conhecer e utilizar vetores, espaços vetoriais, transformações lineares, sistemas de equações lineares e matrizes, para aprimorar as técnicas de desenvolvimento de algoritmos para Inteligência Artificial, e a análise e desempenho de Rede de Computadores.
+-> Conhecer e empregar os conceitos de matrizes para uma melhor eficiência em tempo de processamento, no desenvolvimento de programas.
+-> Criar modelos matemáticos para soluções de problemas.
+
+Ementa:
+	. Vetores;
+	. Espaços Vetoriais;
+	. Transformações Lineares;
+	. Matrizes;
+	. Determinantes;
+	. Dependência Linear;
+	. Autovalores e Autovetores;
+	. Diagonalização.
+
+Metodologia proposta:
+	. Aulas expositivas;
+	. Desenvolvimento de Projetos baseados em problemas reais;
+	. Emprego de metodologia ágil para gestão de projetos;
+	. Utilização;
+	. Ambientes de Virtualização
+	. Sala de aula invertida.
+
 Instrumentos de avaliação:
-Avaliação Formativa: Exercícios para prática. Análise e Resolução de Problemas
-acompanhado de rubrica de avaliação. Apresentação de Projetos, por meio de Pitch
-para entregas intermediárias.
-Avaliação Somativa: Provas. Projetos. Apresentação de Projetos, por meio de Pitch
-para a entrega final uma apresentação dos resultados obtidos. Validação do projeto
-Inclusão do resultado no Portfólio Digital do aluno. Avaliação em pares e Trabalhos
-Interdisciplinares.
+
+	Avaliação Formativa:
+		. Exercícios para prática;
+		. Análise;
+		. Resolução de Problemas acompanhado de rubrica de avaliação
+		. Apresentação de Projetos, por meio de Pitch para entregas intermediárias.
+
+	Avaliação Somativa:
+		. Provas;
+		. Projetos;
+		. Apresentação de Projetos, por meio de Pitch para a entrega final (uma apresentação dos resultados obtidos);
+		. Validação do projeto;
+		. Inclusão do resultado no Portfólio Digital do aluno;
+		. Avaliação em pares
+		. Trabalhos Interdisciplinares.
+
 Bibliografia Básica:
-ANTON H., RORRES, C., Álgebra Linear com Aplicações. 10 ed. Porto Alegre:
-Bookman, 2012.
-FRANCO, N., Álgebra Linear. São Paulo:Pearson, 2017. 
-STEINBRUCH, A., WINTERLE, P. Álgebra Linear. São Paulo: Pearson, 1995.
+
+[ANTON H., RORRES, C., Álgebra Linear com Aplicações. 10 ed. Porto Alegre: Bookman, 2012.]
+[FRANCO, N., Álgebra Linear. São Paulo: Pearson, 2017. ]
+[STEINBRUCH, A., WINTERLE, P. Álgebra Linear. São Paulo: Pearson, 1995.]
+
 Bibliografia Complementar:
-GRUS, J., Data Science do Zero: Primeiras Regras com o Python. Rio de Janeiro: Alta
-Books, 2019.
-LIPSCHUTZ, S., LIPSON, M., Álgebra Linear. Porto Alegre: Bookman, 2011.
-SANTOS, R.F.V., Álgebra Linear com Python: Aprenda na prática os principais
-conceitos; Série: Cientistas de Dados. [S.l.: s.n.], 2018
-TAKAHASHI, S., Guia Mangá álgebra linear. São Paulo: Novatec, 2012. 
+
+[GRUS, J., Data Science do Zero: Primeiras Regras com o Python. Rio de Janeiro: Alta Books, 2019.]
+[LIPSCHUTZ, S., LIPSON, M., Álgebra Linear. Porto Alegre: Bookman, 2011.]
+[SANTOS, R.F.V., Álgebra Linear com Python: Aprenda na prática os principais conceitos; Série: Cientistas de Dados. [S.l.: s.n.], 2018.]
+[TAKAHASHI, S., Guia Mangá álgebra linear. São Paulo: Novatec, 2012.]

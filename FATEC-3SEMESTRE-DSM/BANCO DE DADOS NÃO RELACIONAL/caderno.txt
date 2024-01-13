@@ -1,51 +1,69 @@
-SIGLA – BANCO DE DADOS NÃO RELACIONAL – PRESENCIAL – 80 Aulas
-Competências Profissionais desenvolvidas neste componente
- Desenvolver projetos de Banco de Dados utilizando diferentes abordagens de modelagem e
-implementação a fim de garantir a qualidade dos dados.
- Utilizar adequadamente as técnicas de armazenamento e tratamento de dados nãoestruturados, visando qualidade, manutenção e segurança;
- Utilizar adequadamente os princípios de armazenamento e tratamento de dados a fim de
-suportar a recuperação de dados utilizados em aplicações.
-Competências Socioemocionais
- Agir com pensamento crítico voltado à resolução de situações-problema.
- Evidenciar desinibição e desprendimento para lidar com pessoas de cargos superiores.
- Atuar de forma colaborativa quando do trabalho em equipe.
- Atuar com liderança em função dos contextos do trabalho.
- Demonstrar capacidade de adotar em tempo hábil a solução mais adequada entre possíveis
-alternativas.
- Contribuir para o alcance de objetivos comuns.
- Demonstrar habilidade para escutar atentamente seu interlocutor.
+O texto a seguir é uma parte recortada da documentação oficial da FATEC referente ao programa de ensino do curso DSM a despeito da matéria "BANCO DE DADOS NÃO RELACIONAL".
+
+[...]
+
+BANCO DE DADOS NÃO RELACIONAL – PRESENCIAL – 80 Aulas
+
+Competências Profissionais desenvolvidas neste componente:
+-> Desenvolver projetos de Banco de Dados utilizando diferentes abordagens de modelagem e implementação a fim de garantir a qualidade dos dados.
+-> Utilizar adequadamente as técnicas de armazenamento e tratamento de dados nãoestruturados, visando qualidade, manutenção e segurança.
+-> Utilizar adequadamente os princípios de armazenamento e tratamento de dados a fim de suportar a recuperação de dados utilizados em aplicações.
+
+Competências Socioemocionais:
+-> Agir com pensamento crítico voltado à resolução de situações-problema.
+-> Evidenciar desinibição e desprendimento para lidar com pessoas de cargos superiores.
+-> Atuar de forma colaborativa quando do trabalho em equipe.
+-> Atuar com liderança em função dos contextos do trabalho.
+-> Demonstrar capacidade de adotar em tempo hábil a solução mais adequada entre possíveis alternativas.
+-> Contribuir para o alcance de objetivos comuns.
+-> Demonstrar habilidade para escutar atentamente seu interlocutor.
+
 Objetivos de Aprendizagem:
- Caracterizar o Banco de Dados Relacional e Não Relacional, de acordo com a
-especificação do projeto.
- Utilizar Banco de Dados Não Relacional.
- Utilizar Sistemas de Banco de Dados paralelos e distribuídos.
- Compreender os conceitos de Data Warehouse e mineração de dados.
- Identificar métodos seguros para gerenciamento do Banco de Dados.
-Ementa: Dados estruturados e não estruturados. Arquitetura de Banco de Dados Não
-Convencionais. Introdução aos conceitos de Data Warehouse. Estudo sobre os
-conceitos de aplicações não-convencionais. Modelagem NoSQL: Definições e
-Motivação. Estudos das categorias de Bancos de Dados NoSQL: chave-valor,
-orientados a documentos, orientados a colunas e orientados a grafos. Projeto Lógico do Banco de Dados Não-Relacional. Implementações práticas das principais
-categorias de Bancos de Dados NoSQL.
-Metodologia proposta: Aulas Expositivas. Aprendizagem Baseada em
-Projetos/Problemas. Gamificação, Estudo de Caso Real.
+-> Caracterizar o Banco de Dados Relacional e Não Relacional, de acordo com a especificação do projeto.
+-> Utilizar Banco de Dados Não Relacional.
+-> Utilizar Sistemas de Banco de Dados paralelos e distribuídos.
+-> Compreender os conceitos de Data Warehouse e mineração de dados.
+-> Identificar métodos seguros para gerenciamento do Banco de Dados.
+
+Ementa:
+	. Dados estruturados e não estruturados;
+	. Arquitetura de Banco de Dados Não Convencionais;
+	. Introdução aos conceitos de Data Warehouse;
+	. Estudo sobre os conceitos de aplicações não-convencionais;
+	. Modelagem NoSQL: Definições e Motivação;
+	. Estudos das categorias de Bancos de Dados NoSQL: chave-valor, orientados a documentos, orientados a colunas e orientados a grafos;
+	. Projeto Lógico do Banco de Dados Não-Relacional;
+	. Implementações práticas das principais categorias de Bancos de Dados NoSQL.
+
+Metodologia proposta:
+	. Aulas Expositivas;
+	. Aprendizagem baseada em Projetos/Problemas;
+	. Gamificação;
+	. Estudo de Caso Real.
+
 Instrumentos de avaliação:
-Avaliação Formativa: Exercícios para prática. Análise e Resolução de Problemas
-acompanhado de rubrica de avaliação.
-Avaliação Somativa: Provas. Projetos. Avaliação em pares e Trabalhos
-Interdisciplinares. Validação do projeto para inclusão no Portfólio Digital do aluno.
+
+	Avaliação Formativa:
+		. Exercícios para prática;
+		. Análise;
+		. Resolução de Problemas acompanhado de rubrica de avaliação.
+
+	Avaliação Somativa:
+		. Provas;
+		. Projetos;
+		. Avaliação em pares;
+		. Trabalhos Interdisciplinares;
+		. Validação do projeto para inclusão no Portfólio Digital do aluno.
+
 Bibliografia Básica:
-BOAGLIO, Fernando. MongoDB: Construa novas aplicações com novas tecnologias.
-São Paulo: Casa do Código, 2015.
-ELMASRI, R.; NAVATHE, S. B. Sistemas de Banco de Dados: Fundamentos e
-Aplicações. 7ed. São Paulo: Pearson, 2019.
-SADALAGE, P.; FOWLER, M. Nosql Essencial: Um Guia Conciso Para o Mundo
-Emergente da Persistência Poliglota. São Paulo: Novatec, 2013.
-SINGH, Harry. Data Warehouse: conceitos, tecnologias, implementação e
-gerenciamento. São Paulo: Makron Books, 2001.
+
+[BOAGLIO, Fernando. MongoDB: Construa novas aplicações com novas tecnologias. São Paulo: Casa do Código, 2015.]
+[ELMASRI, R.; NAVATHE, S. B. Sistemas de Banco de Dados: Fundamentos e Aplicações. 7ed. São Paulo: Pearson, 2019.]
+[SADALAGE, P.; FOWLER, M. Nosql Essencial: Um Guia Conciso Para o Mundo Emergente da Persistência Poliglota. São Paulo: Novatec, 2013.]
+[SINGH, Harry. Data Warehouse: conceitos, tecnologias, implementação e gerenciamento. São Paulo: Makron Books, 2001.]
+
 Bibliografia Complementar:
-FAROULT, Stephane. Refatorando Aplicativos SQL. Rio de Janeiro: Alta Books,
-2009.
-PANIZ, D. NoSQL: Como armazenar os dados de uma aplicação moderna. Casa do
-Código, 2016.
-SOUZA, M. Desvendando o Mongodb. Rio de Janeiro: Ciência Moderna, 2015. 
+
+[FAROULT, Stephane. Refatorando Aplicativos SQL. Rio de Janeiro: Alta Books, 2009.]
+[PANIZ, D. NoSQL: Como armazenar os dados de uma aplicação moderna. Casa do Código, 2016.]
+[SOUZA, M. Desvendando o Mongodb. Rio de Janeiro: Ciência Moderna, 2015.]
