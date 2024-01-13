@@ -1,62 +1,72 @@
-SIGLA – BANCO DE DADOS – RELACIONAL – PRESENCIAL – 80 Aulas
-Competências Profissionais desenvolvidas neste componente
- Desenvolver projetos de Banco de Dados utilizando diferentes abordagens de modelagem e
-implementação a fim de garantir a qualidade dos dados.
- Utilizar adequadamente as técnicas de armazenamento e tratamento de dados estruturados,
-visando qualidade, manutenção e segurança;
- Utilizar adequadamente os princípios de armazenamento e tratamento de dados a fim de
-suportar a recuperação de dados utilizados em aplicações.
-Competências Socioemocionais
- Agir com pensamento crítico voltado à resolução de situações-problema.
- Atuar com liderança em função dos contextos do trabalho.
- Atuar de forma colaborativa quando do trabalho em equipe.
- Contribuir para o alcance de objetivos comuns.
- Demonstrar capacidade de adotar em tempo hábil a solução mais adequada entre possíveis
-alternativas.
- Demonstrar habilidade para escutar atentamente seu interlocutor.
- Evidenciar desinibição e desprendimento para lidar com pessoas de cargos superiores.
+O texto a seguir é uma parte recortada da documentação oficial da FATEC referente ao programa de ensino do curso DSM a despeito da matéria "BANCO DE DADOS RELACIONAL".
+
+[...]
+
+BANCO DE DADOS RELACIONAL – PRESENCIAL – 80 Aulas
+
+Competências Profissionais desenvolvidas neste componente:
+-> Desenvolver projetos de Banco de Dados utilizando diferentes abordagens de modelagem e implementação a fim de garantir a qualidade dos dados.
+-> Utilizar adequadamente as técnicas de armazenamento e tratamento de dados estruturados, visando qualidade, manutenção e segurança;
+-> Utilizar adequadamente os princípios de armazenamento e tratamento de dados a fim de suportar a recuperação de dados utilizados em aplicações.
+
+Competências Socioemocionais:
+-> Agir com pensamento crítico voltado à resolução de situações-problema.
+-> Atuar com liderança em função dos contextos do trabalho.
+-> Atuar de forma colaborativa quando do trabalho em equipe.
+-> Contribuir para o alcance de objetivos comuns.
+-> Demonstrar capacidade de adotar em tempo hábil a solução mais adequada entre possíveis alternativas.
+-> Demonstrar habilidade para escutar atentamente seu interlocutor.
+-> Evidenciar desinibição e desprendimento para lidar com pessoas de cargos superiores.
+
 Objetivos de Aprendizagem:
- Aplicar normalização para implementação de Banco de Dados, utilizando
-adequadamente os conceitos de linguagem de definição, manipulação e
-consulta de dados.
- Implementar Stored procedures e Gatilhos (triggers), para soluções de
-problemas em sistemas. 
- Identificar as características de recuperação após falha e de segurança dos
-SGBDs.
-Ementa: Projeto e implementação de banco de dados relacionais. Consultas
-complexas com agrupamentos e subconsultas. Implementação de restrições de
-integridade. Criação de consultas utilizando visões. Aspectos de programação em
-ambiente de banco de dados com procedimentos armazenados, gatilhos e funções.
-Cópia de segurança e restauração de bancos de dados. Estruturas de índices.
-Processamento e otimização de consultas. Processamento de transações e controle
-de concorrência. Recuperação de falhas. Novas tecnologias aplicadas a banco de
-dados.
-Metodologia proposta: Aulas Expositivas. Aprendizagem Baseada em
-Projetos/Problemas. Gamificação, Estudo de Caso Real. Trabalhos Interdisciplinares
-desenvolvidos, seguindo o Manual de Projetos Interdisciplinares expedido pela CESU.
+-> Aplicar normalização para implementação de Banco de Dados, utilizando adequadamente os conceitos de linguagem de definição, manipulação e consulta de dados.
+-> Implementar Stored procedures e Gatilhos (triggers), para soluções de problemas em sistemas. 
+-> Identificar as características de recuperação após falha e de segurança dos SGBDs.
+
+Ementa: 
+	. Projeto e implementação de banco de dados relacionais;
+	. Consultas complexas com agrupamentos e subconsultas;
+	. Implementação de restrições de integridade;
+	. Criação de consultas utilizando visões;
+	. Aspectos de programação em ambiente de banco de dados com procedimentos armazenados, gatilhos e funções;
+	. Cópia de segurança e restauração de bancos de dados;
+	. Estruturas de índices;
+	. Processamento e otimização de consultas;
+	. Processamento de transações e controle de concorrência;
+	. Recuperação de falhas;
+	. Novas tecnologias aplicadas a banco de dados.
+
+Metodologia proposta:
+	. Aulas Expositivas;
+	. Aprendizagem Baseada em Projetos/Problemas;
+	. Gamificação;
+	. Estudo de Caso Real;
+	. Trabalhos Interdisciplinares desenvolvidos, seguindo o Manual de Projetos Interdisciplinares expedido pela CESU.
+
 Instrumentos de avaliação:
-Avaliação Formativa: Exercícios para Prática. Análise e Resolução de Problemas
-acompanhado de rubrica de avaliação.
-Avaliação Somativa: Provas. Projetos. Trabalhos Interdisciplinares em pares e
-Validação do projeto para inclusão no Portfólio Digital do aluno.
+
+	Avaliação Formativa:
+		. Exercícios para Prática;
+		. Análise e Resolução de Problemas acompanhado de rubrica de avaliação.
+
+	Avaliação Somativa:
+		. Provas;
+		. Projetos;
+		. Trabalhos Interdisciplinares em pares;
+		. Validação do projeto para inclusão no Portfólio Digital do aluno.
+
 Bibliografia Básica:
-DATE, C. J. Introdução a sistemas de bancos de dados. Rio de Janeiro, Elsevier:
-Campus, 2004.
-ELMASRI, R.; NAVATHE, S. B. Sistemas de Banco de Dados. 7 ed. São Paulo:
-Pearson, 2018.
-SILBERSCHATZ, A.; SUNDARSHAN, S.; KORTH, H. F. Sistema de banco de
-dados. Rio de Janeiro: Elsevier Brasil, 2016.
+
+[DATE, C. J. Introdução a sistemas de bancos de dados. Rio de Janeiro, Elsevier: Campus, 2004.]
+[ELMASRI, R.; NAVATHE, S. B. Sistemas de Banco de Dados. 7 ed. São Paulo: Pearson, 2018.]
+[SILBERSCHATZ, A.; SUNDARSHAN, S.; KORTH, H. F. Sistema de banco de dados. Rio de Janeiro: Elsevier Brasil, 2016.]
+
 Bibliografia Complementar:
-BEAULIEU, A. Aprendendo SQL. São Paulo: Novatec, 2010.
-GILLENSON, M. L. Fundamentos de Sistemas de Gerência de Banco de Dados.
-Rio de Janeiro: LTC, 2006.
-MACHADO, F. N. R. Banco de Dados: Projeto e Implementação. São Paulo: Érica,
-2005.
-OTEY, M; OTEY, D. Microsoft SQL Server 2005: Guia do Desenvolvedor. Rio de
-Janeiro: Ciência Moderna, 2007.
-RAMAKRISHNAN, R.; GEHRKE, J. Sistemas de Gerenciamento de Bancos de
-Dados. 3 ed. Porto Alegre: Bookman, 2008.
-ROB, P; CORONEL, C. Sistemas de Banco de Dados: Projeto, Implementação e
-Gerenciamento. 8 ed. São Paulo: Cencage Learning, 2011.
-TEOREY, T; LIGHTSTONE, S; NADEAU, T. Projeto e Modelagem de Bancos de
-Dados. São Paulo: Campus, 2006. 
+
+[BEAULIEU, A. Aprendendo SQL. São Paulo: Novatec, 2010.]
+[GILLENSON, M. L. Fundamentos de Sistemas de Gerência de Banco de Dados. Rio de Janeiro: LTC, 2006.]
+[MACHADO, F. N. R. Banco de Dados: Projeto e Implementação. São Paulo: Érica, 2005.]
+[OTEY, M; OTEY, D. Microsoft SQL Server 2005: Guia do Desenvolvedor. Rio de Janeiro: Ciência Moderna, 2007.]
+[RAMAKRISHNAN, R.; GEHRKE, J. Sistemas de Gerenciamento de Bancos de Dados. 3 ed. Porto Alegre: Bookman, 2008.]
+[ROB, P; CORONEL, C. Sistemas de Banco de Dados: Projeto, Implementação e Gerenciamento. 8 ed. São Paulo: Cencage Learning, 2011.]
+[TEOREY, T; LIGHTSTONE, S; NADEAU, T. Projeto e Modelagem de Bancos de Dados. São Paulo: Campus, 2006.]

@@ -1,43 +1,61 @@
-SIGLA – ESTRUTURA DE DADOS – PRESENCIAL - 80 Aulas
-Competências Profissionais desenvolvidas neste componente
- Empregar estruturas de dados adequadas para o desenvolvimento de software para atender
-a diversidade de projetos e plataformas.
-Competências Socioemocionais
- Agir com pensamento crítico voltado à resolução de situações-problema.
+O texto a seguir é uma parte recortada da documentação oficial da FATEC referente ao programa de ensino do curso DSM a despeito da matéria "ESTRUTURA DE DADOS".
+
+[...]
+
+ESTRUTURA DE DADOS – PRESENCIAL - 80 Aulas
+
+Competências Profissionais desenvolvidas neste componente:
+-> Empregar estruturas de dados adequadas para o desenvolvimento de software para atender a diversidade de projetos e plataformas.
+
+Competências Socioemocionais:
+-> Agir com pensamento crítico voltado à resolução de situações-problema.
+
 Objetivos de Aprendizagem:
- Entender e criar algoritmos de nível não-elementar.
- Compreender e utilizar estruturas de dados lineares na resolução de
-problemas. 
- Compreender e simular o funcionamento de algoritmos de ordenação.
- Entender e criar aplicações de busca sequencial e busca binária.
- Utilizar as técnicas de resolução de problemas no desenvolvimento de
-programas.
-Ementa: Alocação dinâmica e ponteiros; Arquivos; Introdução à notação assintótica;
-Tipos abstratos de dados: conceitos, operações, representações, manipulação, listas,
-pilhas e filas. Estruturas de representação de grafos (matriz de adjacência e de
-incidência). Estruturas para representação de árvores. Árvores binárias e suas
-aplicações.
-Metodologia proposta: Aulas Expositivas. Aprendizagem Baseada em
-Projetos/Problemas. Gamificação. Coding Dojo.
+-> Entender e criar algoritmos de nível não-elementar.
+-> Compreender e utilizar estruturas de dados lineares na resolução de problemas. 
+-> Compreender e simular o funcionamento de algoritmos de ordenação.
+-> Entender e criar aplicações de busca sequencial e busca binária.
+-> Utilizar as técnicas de resolução de problemas no desenvolvimento de programas.
+
+Ementa:
+	. Alocação dinâmica e ponteiros;
+	. Arquivos;
+	. Introdução à notação assintótica;
+	. Tipos abstratos de dados: conceitos, operações, representações, manipulação, listas, pilhas e filas;
+	. Estruturas de representação de grafos (matriz de adjacência e de incidência);
+	. Estruturas para representação de árvores;
+	. Árvores binárias e suas aplicações.
+
+Metodologia proposta:
+	. Aulas Expositivas;
+	. Aprendizagem Baseada em Projetos/Problemas;
+	. Gamificação;
+	. Coding Dojo;
+
 Instrumentos de avaliação:
-Avaliação Formativa: Exercícios para prática. Análise e Resolução de Problemas
-acompanhado de rubrica de avaliação.
-Avaliação Somativa: Provas. Projetos. Avaliação em pares. Desafios de Programação
-e Trabalhos Interdisciplinares.
+
+	Avaliação Formativa:
+		. Exercícios para prática;
+		. Análise e Resolução de Problemas acompanhado de rubrica de avaliação;
+
+	Avaliação Somativa:
+		. Provas;
+		. Projetos;
+		. Avaliação em pares;
+		. Desafios de Programação;
+		. Trabalhos Interdisciplinares.
+
 Bibliografia Básica:
-ASCENCIO, A. F. G. Estruturas de Dados. São Paulo: Pearson Brasil, 2011.
-EDELWEISS, N; GALANTE, R. Estruturas de Dados. Porto Alegre: Bookman, 2009
-PEREIRA, S. L. Estruturas de dados fundamentais: Conceitos e Aplicações. São
-Paulo: Érica, 2009.
+
+[ASCENCIO, A. F. G. Estruturas de Dados. São Paulo: Pearson Brasil, 2011.]
+[EDELWEISS, N; GALANTE, R. Estruturas de Dados. Porto Alegre: Bookman, 2009]
+[PEREIRA, S. L. Estruturas de dados fundamentais: Conceitos e Aplicações. São Paulo: Érica, 2009.]
+
 Bibliografia Complementar:
-CORMEN, T. H. et al. Algoritmos. Rio de Janeiro: Campus, 2012.
-EDELWEISS, N.; GALANTE, R. Estruturas de Dados. Série: Livros Didáticos
-Informática UFRGS. Volume 18. Porto Alegre: Bookman. 2008.
-GOODRICH, M. T.; TAMASSIA, R. Estruturas de Dados & Algoritmos em Java. 5
-ed. Porto Alegre: Bookman. 2013.
-KOFFMANN, E. B. Objetos, abstração, estrutura de dados e projeto. Rio de
-Janeiro: LTC, 2008.
-PUGA, S.; RISSETTI, G. Lógica de Programação e Estruturas de Dados. 3 ed. São
-Paulo: Pearson, 2016.
-TENENBAUM, A. M.; LANGSAM, Y.; AUGENSTEIN, M. J. Estruturas de Dados
-Usando C. São Paulo: Pearson,1995. 
+
+[CORMEN, T. H. et al. Algoritmos. Rio de Janeiro: Campus, 2012.]
+[EDELWEISS, N.; GALANTE, R. Estruturas de Dados. Série: Livros Didáticos Informática UFRGS. Volume 18. Porto Alegre: Bookman. 2008.]
+[GOODRICH, M. T.; TAMASSIA, R. Estruturas de Dados & Algoritmos em Java. 5 ed. Porto Alegre: Bookman. 2013.]
+[KOFFMANN, E. B. Objetos, abstração, estrutura de dados e projeto. Rio de Janeiro: LTC, 2008.]
+[PUGA, S.; RISSETTI, G. Lógica de Programação e Estruturas de Dados. 3 ed. São Paulo: Pearson, 2016.]
+[TENENBAUM, A. M.; LANGSAM, Y.; AUGENSTEIN, M. J. Estruturas de Dados Usando C. São Paulo: Pearson,1995.]

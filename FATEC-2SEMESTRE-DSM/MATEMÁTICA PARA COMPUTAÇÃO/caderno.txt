@@ -1,32 +1,55 @@
-SIGLA – MATEMÁTICA PARA COMPUTAÇÃO – PRESENCIAL – 80 Aulas
-Competências Profissionais desenvolvidas neste componente
- Aplicar princípios de matemática e estatística na solução de problemas complexos.
-Competências Socioemocionais
- Agir com pensamento crítico voltado à resolução de situações-problema.
+O texto a seguir é uma parte recortada da documentação oficial da FATEC referente ao programa de ensino do curso DSM a despeito da matéria "MATEMÁTICA PARA COMPUTAÇÃO".
+
+[...]
+
+MATEMÁTICA PARA COMPUTAÇÃO – PRESENCIAL – 80 Aulas
+
+Competências Profissionais desenvolvidas neste componente:
+-> Aplicar princípios de matemática e estatística na solução de problemas complexos.
+
+Competências Socioemocionais:
+-> Agir com pensamento crítico voltado à resolução de situações-problema.
+
 Objetivos de Aprendizagem:
- Compreender os conceitos de funções racionais, trigonométricas,
-exponencial e logaritmo, para utilizar no desenvolvimento de programas
-computacionais.
- Conhecer e utilizar a teoria de conjuntos e subconjuntos no desenvolvimento
-de banco de dados.
- Aplicar relações binárias, equivalentes e de ordem, para propor soluções em
-aplicações e sistemas, no desenvolvimento dos algoritmos. 
-Ementa: Lógica matemática. Conjuntos. Combinatória. Relação. Funções. Conceitos
-básicos de Grafos. Introdução a Análise de Algoritmos. Recursividade. Relações de
-Recorrência. Relações e sua aplicação em Banco de Dados (Álgebra Relacional).
-Metodologia proposta: Aulas expositivas. Sala de aula invertida.
+-> Compreender os conceitos de funções racionais, trigonométricas, exponencial e logaritmo, para utilizar no desenvolvimento de programas computacionais.
+-> Conhecer e utilizar a teoria de conjuntos e subconjuntos no desenvolvimento de banco de dados.
+-> Aplicar relações binárias, equivalentes e de ordem, para propor soluções em aplicações e sistemas, no desenvolvimento dos algoritmos. 
+
+Ementa:
+	. Lógica matemática;
+	. Conjuntos;
+	. Combinatória;
+	. Relação;
+	. Funções;
+	. Conceitos básicos de Grafos;
+	. Introdução a Análise de Algoritmos;
+	. Recursividade;
+	. Relações de Recorrência;
+	. Relações e sua aplicação em Banco de Dados (Álgebra Relacional).
+
+Metodologia proposta:
+	. Aulas expositivas;
+	. Sala de aula invertida.
+
 Instrumentos de avaliação:
-Avaliação Formativa: Exercícios para prática. Análise e Resolução de Problemas
-acompanhado de rubrica de avaliação.
-Avaliação Somativa: Provas. Projetos. Avaliação em pares. Desafios de Programação
-e Trabalhos Interdisciplinares.
+
+	Avaliação Formativa:
+		. Exercícios para prática;
+		. Análise;
+		. Resolução de Problemas acompanhado de rubrica de avaliação.
+
+	Avaliação Somativa:
+		. Provas;
+		. Projetos;
+		. Avaliação em pares;
+		. Desafios de Programação e Trabalhos Interdisciplinares.
+
 Bibliografia Básica:
-GERSTING, J.L. Fundamentos Matemáticos para a ciência da computação:
-Matemática Discreta e Suas Aplicações.7 ed. São Paulo: LTC, 2016.
-MENEZES, P.B. Matemática Discreta para Computação e Informática. Volume 16.
-4 ed. Porto Alegre: Bookman, 2013.
+
+[GERSTING, J.L. Fundamentos Matemáticos para a ciência da computação: Matemática Discreta e Suas Aplicações. 7 ed. São Paulo: LTC, 2016.]
+[MENEZES, P.B. Matemática Discreta para Computação e Informática. Volume 16. 4 ed. Porto Alegre: Bookman, 2013.]
+
 Bibliografia Complementar:
-SCHEINERMAN, E. Matemática Discreta: Uma introdução. 3 ed. São Paulo:
-Cengage Learning, 2016.
-STEIN, C. DRYSDALE.R.L., BOGART, K., Matemática Discreta para Ciências da
-Computação. São Paulo: Pearson Universidades, 2013 
+
+[SCHEINERMAN, E. Matemática Discreta: Uma introdução. 3 ed. São Paulo: Cengage Learning, 2016.]
+[STEIN, C. DRYSDALE.R.L., BOGART, K., Matemática Discreta para Ciências da Computação. São Paulo: Pearson Universidades, 2013.]

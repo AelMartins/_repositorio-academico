@@ -1,49 +1,73 @@
-SIGLA – TÉCNICA DE PROGRAMAÇÃO I – PRESENCIAL - 80 Aulas
-Competências Profissionais desenvolvidas neste componente
- Utilizar linguagens de programação orientada a objetos e raciocínio lógico adequados para
-resolução de situações problema e ou desenvolvimento de projetos diversos.
-Competências Socioemocionais
- Agir com pensamento crítico voltado à resolução de situações-problema.
- Demonstrar capacidade de lidar com situações novas.
- Evidenciar iniciativa e flexibilidade para adaptar-se a novas dinâmicas.
+O texto a seguir é uma parte recortada da documentação oficial da FATEC referente ao programa de ensino do curso DSM a despeito da matéria "TÉCNICA DE PROGRAMAÇÃO I".
+
+[...]
+
+TÉCNICA DE PROGRAMAÇÃO I – PRESENCIAL - 80 Aulas
+
+Competências Profissionais desenvolvidas neste componente:
+-> Utilizar linguagens de programação orientada a objetos e raciocínio lógico adequados para resolução de situações problema e ou desenvolvimento de projetos diversos.
+
+Competências Socioemocionais:
+-> Agir com pensamento crítico voltado à resolução de situações-problema.
+-> Demonstrar capacidade de lidar com situações novas.
+-> Evidenciar iniciativa e flexibilidade para adaptar-se a novas dinâmicas.
+
 Objetivos de Aprendizagem:
- Utilizar linguagem de programação, difundida no mercado, para codificação
-aplicando os conceitos de orientação a objetos.
- Abstração, encapsulamento, herança, polimorfismo. Relacionamento entre
-classes.
- Compreender e programar Tratamento de exceções.
- Criar Interfaces gráficas com usuário.
- Aplicar conceitos da Arquitetura Model-View-Controller.
- Conhecer frameworks de desenvolvimento front-end e back-end.
- Aplicar versionamento e documentação da aplicação
-Ementa: Conceitos de orientação a objetos: Classes, Objeto, Encapsulamento,
-Herança, Polimorfismo. Princípios de padrões de projeto. Declaração de Classes e
-Objetos. Classe Abstrata. Métodos. Sobrecarga de Métodos. Conceitos de Herança
-múltipla. Modificadores de acesso. Construtores. Manipulação de Exceções.
-Conceitos e aplicações.de arquitetura em Camadas. Uso de Interface Gráfica. Teste
-de Software.
-Metodologia proposta: Aulas Expositivas. Aprendizagem Baseada em
-Projetos/Problemas. Gamificação. Coding Dojo.
+-> Utilizar linguagem de programação, difundida no mercado, para codificação aplicando os conceitos de orientação a objetos.
+-> Abstração, encapsulamento, herança, polimorfismo.
+-> Relacionamento entre classes.
+-> Compreender e programar Tratamento de exceções.
+-> Criar Interfaces gráficas com usuário.
+-> Aplicar conceitos da Arquitetura Model-View-Controller.
+-> Conhecer frameworks de desenvolvimento front-end e back-end.
+-> Aplicar versionamento e documentação da aplicação
+
+Ementa:
+	. Conceitos de orientação a objetos: Classes, Objeto, Encapsulamento, Herança, Polimorfismo;
+	. Princípios de padrões de projeto;
+	. Declaração de Classes e Objetos;
+	. Classe Abstrata;
+	. Métodos;
+	. Sobrecarga de Métodos;
+	. Conceitos de Herança Múltipla;
+	. Modificadores de acesso;
+	. Construtores;
+	. Manipulação de Exceções;
+	. Conceitos e aplicações de arquitetura em Camadas;
+	. Uso de Interface Gráfica;
+	. Teste de Software.
+
+Metodologia proposta:
+	. Aulas Expositivas;
+	. Aprendizagem baseada em Projetos/Problemas;
+	. Gamificação;
+	. Coding Dojo;
+
 Instrumentos de avaliação:
-Avaliação Formativa: Exercícios para prática. Análise e Resolução de Problemas
-acompanhado de rubrica de avaliação.
-Avaliação Somativa: Provas. Projetos. Avaliação em pares. Desafios de Programação
-e Trabalhos Interdisciplinares.
+
+	Avaliação Formativa:
+		. Exercícios para prática;
+		. Análise;
+		. Resolução de Problemas acompanhado de rubrica de avaliação.
+
+	Avaliação Somativa:
+		. Provas;
+		. Projetos;
+		. Avaliação em pares;
+		. Desafios de Programação;
+		. Trabalhos Interdisciplinares.
+
 Bibliografia Básica:
-FURGERI, S. Programação orientada a objetos: Conceitos e técnicas. São Paulo:
-Erica. 2015.
-NASCIMENTO JR. O.S. Introdução à Orientação a Objetos com C++ e Python:
-Uma abordagem prática. São Paulo: Novatec, 2017
-SIERRA, K. BATES, B. Use a Cabeça! Java. 2 ed. Sãoo Paulo: O’Rilly, 2005. 
+
+[FURGERI, S. Programação orientada a objetos: Conceitos e técnicas. São Paulo: Erica, 2015.]
+[NASCIMENTO JR. O.S. Introdução à Orientação a Objetos com C++ e Python: Uma abordagem prática. São Paulo: Novatec, 2017.]
+[SIERRA, K. BATES, B. Use a Cabeça! Java. 2 ed. Sãoo Paulo: O’Rilly, 2005.]
+
 Bibliografia Complementar:
-BHARGAVA, A. Y. Entendendo Algoritmos: Um guia ilustrado para programadores
-e outros curiosos. São Paulo: Novatec,2019.
-KOPEC, D. Problemas Clássicos de Ciência da Computação com Python. São
-Paulo: Novatec,2019.
-MARTIN, Robert C. Código Limpo: Habilidades Práticas do Agile Software. Rio de
-Janeiro: Alta Books, 2012.
-RAMALHO, L. Python Fluente: Programação Clara, Concisa e Eficaz. São Paulo:
-Novatec,2015.
-SCHILDT, H. Java para Iniciantes: Crie, Compile e Execute Programas Java
-Rapidamente. 6 ed. Porto Alegre: Bookman: 2015.
-SILVERMAN, R. E. Git: guia prático. São Paulo: Novatec, 2019.
+
+[BHARGAVA, A. Y. Entendendo Algoritmos: Um guia ilustrado para programadores e outros curiosos. São Paulo: Novatec, 2019.]
+[KOPEC, D. Problemas Clássicos de Ciência da Computação com Python. São Paulo: Novatec, 2019.]
+[MARTIN, Robert C. Código Limpo: Habilidades Práticas do Agile Software. Rio de Janeiro: Alta Books, 2012.]
+[RAMALHO, L. Python Fluente: Programação Clara, Concisa e Eficaz. São Paulo: Novatec,2015.]
+[SCHILDT, H. Java para Iniciantes: Crie, Compile e Execute Programas Java Rapidamente. 6 ed. Porto Alegre: Bookman, 2015.]
+[SILVERMAN, R. E. Git: guia prático. São Paulo: Novatec, 2019.]

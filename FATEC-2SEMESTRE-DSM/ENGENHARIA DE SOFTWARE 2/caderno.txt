@@ -1,58 +1,71 @@
-SIGLA – ENGENHARIA DE SOFTWARE II – PRESENCIAL - 80 Aulas
-Competências Profissionais desenvolvidas neste componente
- Especificar os requisitos, projetar e documentar soluções de software baseadas no
-conhecimento apropriado de teorias, modelos e técnicas, observando as necessidades dos
-projetos.
- Modelar e implantar processos de negócio, propor soluções de TI a fim de aumentar a
-competitividade das organizações.
-Competências Socioemocionais
- Atuar com liderança em função dos contextos do trabalho.
- Atuar de forma colaborativa quando do trabalho em equipe.
- Contribuir para o alcance de objetivos comuns.
- Demonstrar capacidade de adotar em tempo hábil a solução mais adequada entre possíveis
-alternativas.
- Demonstrar habilidade para escutar atentamente seu interlocutor.
- Evidenciar desinibição e desprendimento para lidar com pessoas de cargos superiores.
+O texto a seguir é uma parte recortada da documentação oficial da FATEC referente ao programa de ensino do curso DSM a despeito da matéria "ENGENHARIA DE SOFTWARE II".
+
+[...]
+
+ENGENHARIA DE SOFTWARE II – PRESENCIAL - 80 Aulas
+
+Competências Profissionais desenvolvidas neste componente:
+-> Especificar os requisitos, projetar e documentar soluções de software baseadas no conhecimento apropriado de teorias, modelos e técnicas, observando as necessidades dos projetos.
+-> Modelar e implantar processos de negócio, propor soluções de TI a fim de aumentar a competitividade das organizações.
+
+Competências Socioemocionais:
+-> Atuar com liderança em função dos contextos do trabalho.
+-> Atuar de forma colaborativa quando do trabalho em equipe.
+-> Contribuir para o alcance de objetivos comuns.
+-> Demonstrar capacidade de adotar em tempo hábil a solução mais adequada entre possíveis alternativas.
+-> Demonstrar habilidade para escutar atentamente seu interlocutor.
+-> Evidenciar desinibição e desprendimento para lidar com pessoas de cargos superiores.
+
 Objetivos de Aprendizagem:
- Conhecer e aplicar padrões ao processo de software.
- Mapear modelos de representação.
- Empregar os diversos tipos de Arquitetura de Software.
- Conhecer a aplicar padrões de documentação, integração de sistemas e
-manutenção.
-Ementa: Modelos de Processo de Desenvolvimento de Software (Espiral e
-Prototipagem). Modelagem de Sistemas utilizando (UML). Modelagem de Processos
-do Negócio (BPMN). Técnicas de documentação e Definition of Done (DoD). Padrões
-de Projeto e Projeto de Arquitetura de Software. Conceitos de Testes de Software.
-Implantação de Software. Evolução funcional e Manutenção corretiva de Software.
-Metodologia proposta: Aulas Expositivas. Aprendizagem Baseada em
-Projetos/Problemas. Sala de Aula Invertida. Estudo de Caso Real. Nesta disciplina o
-professor é responsável por desenvolver um projeto interdisciplinar integrando a
-disciplina de Desenvolvimento Web II e Banco de Dados Relacional, seguindo o
-Manual de Projetos Interdisciplinares expedido pela CESU. 
+-> Conhecer e aplicar padrões ao processo de software.
+-> Mapear modelos de representação.
+-> Empregar os diversos tipos de Arquitetura de Software.
+-> Conhecer a aplicar padrões de documentação, integração de sistemas e manutenção.
+
+Ementa:
+	. Modelos de Processo de Desenvolvimento de Software (Espiral e Prototipagem);
+	. Modelagem de Sistemas utilizando (UML);
+	. Modelagem de Processos do Negócio (BPMN);
+	. Técnicas de documentação e Definition of Done (DoD);
+	. Padrões de Projeto e Projeto de Arquitetura de Software;
+	. Conceitos de Testes de Software;
+	. Implantação de Software;
+	. Evolução funcional;
+	. Manutenção corretiva de Software.
+
+Metodologia proposta:
+	. Aulas Expositivas;
+	. Aprendizagem Baseada em Projetos/Problemas;
+	. Sala de Aula Invertida;
+	. Estudo de Caso Real;
+	. Nesta disciplina o professor é responsável por desenvolver um projeto interdisciplinar integrando a disciplina de Desenvolvimento Web II e Banco de Dados Relacional, seguindo o Manual de Projetos Interdisciplinares expedido pela CESU. 
+
 Instrumentos de avaliação:
-Avaliação Formativa: Exercícios para prática. Análise e Resolução de Problemas
-acompanhado de rubrica de avaliação. Análise da documentação do projeto
-interdisciplinar.
-Avaliação Somativa: Provas. Projetos. Avaliação em pares. Análise da apresentação
-oral do projeto interdisciplinar e validação do projeto para inclusão no Portfólio Digital
-do aluno.
+
+	Avaliação Formativa:
+		. Exercícios para prática;
+		. Análise e Resolução de Problemas acompanhado de rubrica de avaliação;
+		. Análise da documentação do projeto interdisciplinar.
+
+	Avaliação Somativa:
+		. Provas;
+		. Projetos;
+		. Avaliação em pares;
+		. Análise da apresentação oral do projeto interdisciplinar
+		. Validação do projeto para inclusão no Portfólio Digital do aluno.
+
 Bibliografia Básica:
-PRESSMAN, Roger; MAXIM, Bruce. Engenharia de Software. 8 ed. São Paulo:
-McGraw Hill Brasil, 2016.
-SOMMERVILLE, Ian. Engenharia De Software. 10 ed. São Paulo: Pearson Brasil,
-2019.
-WAZLAWICK, R. S. Engenharia de Software: conceitos e práticas. Rio de Janeiro:
-Elsevier, 2013.
+
+[PRESSMAN, Roger; MAXIM, Bruce. Engenharia de Software. 8 ed. São Paulo: McGraw Hill Brasil, 2016.]
+[SOMMERVILLE, Ian. Engenharia De Software. 10 ed. São Paulo: Pearson Brasil, 2019.]
+[WAZLAWICK, R. S. Engenharia de Software: conceitos e práticas. Rio de Janeiro: Elsevier, 2013.]
+
 Bibliografia Complementar:
-LENGHOLM JR. Hélio. Engenharia de Software na Prática. São Paulo: Novatec,
-2010.
-GUEDES, G. T. A. UML 2 - uma abordagem prática. São Paulo: Novatec, 2011.
-HIRAMA, K. Engenharia de Software: qualidade e produtividade com tecnologia. Rio
-de Janeiro: Elsevier, 2011.
-PAULA FILHO, W. P. Engenharia de software. Rio de Janeiro: LTC, 2010.
-PETERS, James. Engenharia de software: Teoria e prática. Rio de Janeiro: Campus,
-2001.
-SBROCCO, J. H. T. C.; MACEDO, P. C. Metodologias Ágeis: Engenharia de
-Software sob medida. São Paulo: Érica, 2012.
-TSUI, F.; KARAM, O. Fundamentos de Engenharia de Software. São Paulo: LTC,
-2013. 
+
+[LENGHOLM JR. Hélio. Engenharia de Software na Prática. São Paulo: Novatec, 2010.]
+[GUEDES, G. T. A. UML 2 - uma abordagem prática. São Paulo: Novatec, 2011.]
+[HIRAMA, K. Engenharia de Software: qualidade e produtividade com tecnologia. Rio de Janeiro: Elsevier, 2011.]
+[PAULA FILHO, W. P. Engenharia de software. Rio de Janeiro: LTC, 2010.]
+[PETERS, James. Engenharia de software: Teoria e prática. Rio de Janeiro: Campus, 2001.]
+[SBROCCO, J. H. T. C.; MACEDO, P. C. Metodologias Ágeis: Engenharia de Software sob medida. São Paulo: Érica, 2012.]
+[TSUI, F.; KARAM, O. Fundamentos de Engenharia de Software. São Paulo: LTC, 2013.]
