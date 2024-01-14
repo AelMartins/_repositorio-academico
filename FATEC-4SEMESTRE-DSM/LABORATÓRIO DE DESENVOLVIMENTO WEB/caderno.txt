@@ -1,76 +1,75 @@
-SIGLA - LABORATÓRIO DE DESENVOLVIMENTO WEB – PRESENCIAL – 80
-Aulas
-Competências Profissionais desenvolvidas neste componente
- Empreender, exercer a liderança, identificar oportunidades de mudanças e projetar soluções
-inovadoras baseadas em tecnologias da informação nas organizações.
- Todas as competências desenvolvidas, do primeiro ao quarto semestres, poderão ser
-associadas no desenvolvimento do projeto desta disciplina.
-Competências Socioemocionais
- Agir com pensamento crítico voltado à resolução de situações-problema.
- Atuar com liderança em função dos contextos do trabalho.
- Atuar de forma colaborativa quando do trabalho em equipe.
- Contribuir para o alcance de objetivos comuns.
- Demonstrar capacidade de adotar em tempo hábil a solução mais adequada entre possíveis
-alternativas.
- Demonstrar habilidade para escutar atentamente seu interlocutor.
- Demonstrar tendência a ajustar situações e estabelecer acordos.
- Evidenciar desinibição e desprendimento para lidar com pessoas de cargos superiores.
+O texto a seguir é uma parte recortada da documentação oficial da FATEC referente ao programa de ensino do curso DSM a despeito da matéria "LABORATÓRIO DE DESENVOLVIMENTO WEB".
+
+[...]
+
+LABORATÓRIO DE DESENVOLVIMENTO WEB – PRESENCIAL – 80 Aulas
+
+Competências Profissionais desenvolvidas neste componente:
+-> Empreender, exercer a liderança, identificar oportunidades de mudanças e projetar soluções inovadoras baseadas em tecnologias da informação nas organizações.
+-> Todas as competências desenvolvidas, do primeiro ao quarto semestres, poderão ser associadas no desenvolvimento do projeto desta disciplina.
+
+Competências Socioemocionais:
+-> Agir com pensamento crítico voltado à resolução de situações-problema.
+-> Atuar com liderança em função dos contextos do trabalho.
+-> Atuar de forma colaborativa quando do trabalho em equipe.
+-> Contribuir para o alcance de objetivos comuns.
+-> Demonstrar capacidade de adotar em tempo hábil a solução mais adequada entre possíveis alternativas.
+-> Demonstrar habilidade para escutar atentamente seu interlocutor.
+-> Demonstrar tendência a ajustar situações e estabelecer acordos.
+-> Evidenciar desinibição e desprendimento para lidar com pessoas de cargos superiores.
+
 Objetivos de Aprendizagem:
- Utilizar frameworks de desenvolvimento front-end e back-end alinhados com as
-linguagens de programação no desenvolvimento web.
- Criar APIs para interagir com sistemas externos.
- Gerenciar dependências.
- Utilizar Métricas e análises de aplicações Web.
- Otimizar sites para buscas (SEO). Ferramentas de Web Analytics.
- Aplicar aspectos de segurança, cookies, autenticação HTTP, upload,
-download, arquivos remotos.
- Criar conexões de bancos de dados persistentes, versionamento e
-documentação da aplicação, buscando atender as boas práticas da engenharia
-de software.
-Ementa: Elaboração de um projeto, empregando metodologia ágil no o
-desenvolvimento de um sistema web, empregando linguagens de programação e
-frameworks para Front-End e Back-End, com layout responsivo, persistência de
-dados, consumindo APIs públicas e privadas. Utilização de containers para isolamento
-de sistemas web em produção. Diferentes tipos de servidores web e seu impacto na
-construção dos sistemas. Isolamento das diferentes partes da aplicação web
-utilizando tecnologias de virtualização e/ou containers. Arquitetura de sistemas web
-escaláveis. Segurança nos diferentes níveis de uma aplicação web: embaralhamento
-de código, comunicação utilizando protocolos seguros, arquitetura segura, criptografia
-de arquivos e de configuração e dados em banco de dados. Práticas de integração e entrega contínua aplicadas ao desenvolvimento web. Aplicação de boas práticas de
-Interação Humano Computador e Experiencia do Usuário. Desenvolvimento Dirigido
-a Testes (TTD).
-Metodologia proposta: Aprendizagem Baseada em Projetos/Problemas/Desafios.
-Emprego de metodologia ágil para gestão de projetos. Nesta disciplina o professor é
-responsável por desenvolver um projeto integrando as disciplinas do primeiro ao
-quarto semestre, seguindo o Manual de Projetos Interdisciplinares expedido pela
-CESU.
+-> Utilizar frameworks de desenvolvimento front-end e back-end alinhados com as linguagens de programação no desenvolvimento web.
+-> Criar APIs para interagir com sistemas externos.
+-> Gerenciar dependências.
+-> Utilizar Métricas e análises de aplicações Web.
+-> Otimizar sites para buscas (SEO). Ferramentas de Web Analytics.
+-> Aplicar aspectos de segurança, cookies, autenticação HTTP, upload, download, arquivos remotos.
+-> Criar conexões de bancos de dados persistentes, versionamento e documentação da aplicação, buscando atender as boas práticas da engenharia de software.
+
+Ementa:
+	. Elaboração de um projeto, empregando metodologia ágil no o desenvolvimento de um sistema web, empregando linguagens de programação e frameworks para Front-End e Back-End, com layout responsivo, persistência de dados, consumindo APIs públicas e privadas;
+	. Utilização de containers para isolamento de sistemas web em produção;
+	. Diferentes tipos de servidores web e seu impacto na construção dos sistemas;
+	. Isolamento das diferentes partes da aplicação web utilizando tecnologias de virtualização e/ou containers;
+	. Arquitetura de sistemas web escaláveis;
+	. Segurança nos diferentes níveis de uma aplicação web: embaralhamento de código, comunicação utilizando protocolos seguros, arquitetura segura, criptografia de arquivos e de configuração e dados em banco de dados;
+	. Práticas de integração e entrega contínua aplicadas ao desenvolvimento web;
+	. Aplicação de boas práticas de Interação Humano Computador e Experiencia do Usuário;
+	. Desenvolvimento Dirigido a Testes (TTD).
+
+Metodologia proposta:
+	. Aprendizagem baseada em Projetos/Problemas/Desafios;
+	. Emprego de metodologia ágil para gestão de projetos;
+	. Nesta disciplina o professor é responsável por desenvolver um projeto integrando as disciplinas do primeiro ao quarto semestre, seguindo o Manual de Projetos Interdisciplinares expedido pela CESU.
+
 Instrumentos de avaliação:
-Avaliação Formativa: Exercícios para prática. Análise e Resolução de Problemas
-acompanhado de rubrica de avaliação.
-Avaliação Somativa: Provas. Projetos. Avaliação em pares. Desafios de Programação
-e Trabalhos Interdisciplinares. Validação do projeto para inclusão no Portfólio Digital
-do aluno.
+
+	Avaliação Formativa:
+		. Exercícios para prática;
+		. Análise;
+		. Resolução de Problemas acompanhado de rubrica de avaliação.
+
+	Avaliação Somativa:
+		. Provas;
+		. Projetos;
+		. Avaliação em pares;
+		. Desafios de Programação;
+		. Trabalhos Interdisciplinares;
+		. Validação do projeto para inclusão no Portfólio Digital do aluno.
+
 Bibliografia Básica:
-BROWN, E. Programação web com Node e Express: Beneficiando-se da stack
-JavaScript. São Paulo: Novatec, 2020.
-DUCKETT, J. JAVASCRIPT e JQUERY: Desenvolvimento de Interfaces Web
-Interativas. Rio de Janeiro: Alta Books, 2016
-FOWLER, S. Microsserviços Prontos Para a Produção: Construindo Sistemas
-Padronizados em uma Organização de Engenharia de Software. São Paulo: Novatec,
-2017.
-LOWDERMILK, T. Design Centrado no Usuário: um guia para o desenvolvimento
-de aplicativos amigáveis. São Paulo: Novatec, 2013.
-PERCIVAL, H. J. W. TDD com Python: Siga o Bode dos Testes: Usando Django,
-Selenium e JavaScript. São Paulo: Novatec, 2017.
-DUCKETT, J. HTML e CSS: Projete e Construa Websites. Rio de Janeiro: Alta Books.
-2016
-CRUZ, F. SCRUM e Agile em Projetos Guia Completo: conquiste sua certificação e
-aprenda a usar métodos ágeis no seu dia a dia. 2 ed. São Paulo: Brasport, 2018.
+
+[BROWN, E. Programação web com Node e Express: Beneficiando-se da stack JavaScript. São Paulo: Novatec, 2020.]
+[DUCKETT, J. JAVASCRIPT e JQUERY: Desenvolvimento de Interfaces Web Interativas. Rio de Janeiro: Alta Books, 2016.]
+[FOWLER, S. Microsserviços Prontos Para a Produção: Construindo Sistemas Padronizados em uma Organização de Engenharia de Software. São Paulo: Novatec, 2017.]
+[LOWDERMILK, T. Design Centrado no Usuário: um guia para o desenvolvimento de aplicativos amigáveis. São Paulo: Novatec, 2013.]
+[PERCIVAL, H. J. W. TDD com Python: Siga o Bode dos Testes: Usando Django, Selenium e JavaScript. São Paulo: Novatec, 2017.]
+[DUCKETT, J. HTML e CSS: Projete e Construa Websites. Rio de Janeiro: Alta Books, 2016.]
+[CRUZ, F. SCRUM e Agile em Projetos Guia Completo: conquiste sua certificação e aprenda a usar métodos ágeis no seu dia a dia. 2 ed. São Paulo: Brasport, 2018.]
+
 Bibliografia Complementar:
-HUMBLE, J.; FARLEY, D. Entrega Contínua: Como Entregar Software de Forma
-Rápida e Confiável. Porto Alegre: Bookman, 2014.
-MUELLER, J. P. Segurança Para Desenvolvedores web: Usando JavaScript, HTML
-e CSS. São Paulo: Novatec, 2016.
-SILVERMAN, R. E. Git: guia prático. São Paulo: Novatec, 2019.
-VITALINO, J. F. N; CASTRO, M. A. N. Descomplicando o Docker. 2 ed. São Paulo,
-BRASPORT, 2018. 
+
+[HUMBLE, J.; FARLEY, D. Entrega Contínua: Como Entregar Software de Forma Rápida e Confiável. Porto Alegre: Bookman, 2014.]
+[MUELLER, J. P. Segurança Para Desenvolvedores web: Usando JavaScript, HTML e CSS. São Paulo: Novatec, 2016.]
+[SILVERMAN, R. E. Git: guia prático. São Paulo: Novatec, 2019. VITALINO, J. F. N; CASTRO, M. A. N. Descomplicando o Docker. 2 ed. São Paulo, BRASPORT, 2018.]
