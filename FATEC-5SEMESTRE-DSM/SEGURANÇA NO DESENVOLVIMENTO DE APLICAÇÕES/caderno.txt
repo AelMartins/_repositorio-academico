@@ -1,50 +1,60 @@
-SIGLA – SEGURANÇA NO DESENVOLVIMENTO DE APLICAÇÕES -
-PRESENCIAL – 80 Aulas
-Competências Profissionais desenvolvidas neste componente
- Aplicar técnicas de segurança da informação na estruturação e desenvolvimento de banco
-de dados no atendimento das necessidades do projeto e na segurança dos dados.
- Desenvolver softwares baseados em metodologias e técnicas de programação que visam a
-segurança das aplicações e do usuário.
-Competências Socioemocionais
- Demonstrar capacidade de análise, negociação e tomada de decisão.
- Demonstrar tendência a ajustar situações e estabelecer acordos.
+O texto a seguir é uma parte recortada da documentação oficial da FATEC referente ao programa de ensino do curso DSM a despeito da matéria "SEGURANÇA NO DESENVOLVIMENTO DE APLICAÇÕES".
+
+[...]
+
+SEGURANÇA NO DESENVOLVIMENTO DE APLICAÇÕES - PRESENCIAL – 80 Aulas
+
+Competências Profissionais desenvolvidas neste componente:
+-> Aplicar técnicas de segurança da informação na estruturação e desenvolvimento de banco de dados no atendimento das necessidades do projeto e na segurança dos dados.
+-> Desenvolver softwares baseados em metodologias e técnicas de programação que visam a segurança das aplicações e do usuário.
+
+Competências Socioemocionais:
+-> Demonstrar capacidade de análise, negociação e tomada de decisão.
+-> Demonstrar tendência a ajustar situações e estabelecer acordos.
+
 Objetivos de Aprendizagem:
- Compreender o pilar de Segurança da Informação e empregar técnicas de
-programação segura para o desenvolvimento de aplicações Web, na proteção
-os dados de entrada dos usuários.
- Conhecer e utilizar conceitos de SQL Injection, para testar as vulnerabilidades
-das aplicações.
- Aplicar técnicas de validação ou codificação, para assegurar as mensagens
-enviadas ao navegar.
- Realizar armazenamento seguro das informações, com a utilização de
-autenticidade e criptografia.
-Ementa: Conceitos fundamentais do pilar de segurança: confidencialidade,
-integridade, disponibilidade e autenticidade. Gestão de Vulnerabilidades e resposta à
-incidentes de segurança. Redução da superfície de ataque, defesa em profundidade,
-menor privilégio, padrões seguros, modelagem de ameaças, ferramenta para
-diagramação e enumeração de ameaças, testes de segurança, Fuzz testing, Teste de
-invasão, Injeção de SQL, Cross-Site Scripting (XSS), aplicação de conceitos de
-OWASP (Open Web Application Security Project) e SDL (Security Development
-Lifecycle), Revisão de código.
-Metodologia proposta: Aulas Expositivas. Aprendizagem Baseada em
-Projetos/Problemas. Gamificação, Sala de Aula Invertida, Estudo de Caso Real.
-Utilização de simuladores e ambientes virtuais. Trabalhos Interdisciplinares, seguindo
-o Manual de Projetos Interdisciplinares expedido pela CESU.
+-> Compreender o pilar de Segurança da Informação e empregar técnicas de programação segura para o desenvolvimento de aplicações Web, na proteção os dados de entrada dos usuários.
+-> Conhecer e utilizar conceitos de SQL Injection, para testar as vulnerabilidades das aplicações.
+-> Aplicar técnicas de validação ou codificação, para assegurar as mensagens enviadas ao navegar.
+-> Realizar armazenamento seguro das informações, com a utilização de autenticidade e criptografia.
+
+Ementa:
+	. Conceitos fundamentais do pilar de segurança: confidencialidade, integridade, disponibilidade e autenticidade;
+	. Gestão de Vulnerabilidades e resposta à incidentes de segurança;
+	. Redução da superfície de ataque, defesa em profundidade, menor privilégio, padrões seguros, modelagem de ameaças, ferramenta para diagramação e enumeração de ameaças, testes de segurança, Fuzz testing, Teste de invasão, Injeção de SQL, Cross-Site Scripting (XSS), aplicação de conceitos de OWASP (Open Web Application Security Project) e SDL (Security Development Lifecycle);
+	. Revisão de código.
+
+Metodologia proposta:
+	. Aulas Expositivas;
+	. Aprendizagem baseada em Projetos/Problemas;
+	. Gamificação;
+	. Sala de Aula Invertida;
+	. Estudo de Caso Real;
+	. Utilização de simuladores e ambientes virtuais;
+	. Trabalhos Interdisciplinares, seguindo o Manual de Projetos Interdisciplinares expedido pela CESU.
+
 Instrumentos de avaliação:
-Avaliação Formativa: Exercícios para prática. Análise e Resolução de Problemas
-acompanhado de rubrica de avaliação.
-Avaliação Somativa: Provas. Projetos. Avaliação em pares. Desafios de Segurança e
-Trabalhos Interdisciplinares.
+
+	Avaliação Formativa:
+		. Exercícios para prática;
+		. Análise;
+		. Resolução de Problemas acompanhado de rubrica de avaliação.
+
+	Avaliação Somativa:
+		. Provas;
+		. Projetos;
+		. Avaliação em pares;
+		. Desafios de Segurança;
+		. Trabalhos Interdisciplinares.
+
 Bibliografia Básica:
-MORENO D. Pentest em aplicações web. São Paulo: Novatec, 2017.
-MUELLER J. P. Segurança para desenvolvedores web. São Paulo: Novatec
-,2016.
-SEITZ J. Black Hat Python: Programação Python Para Hackers e Pentesters. São
-Paulo: Novatec, 2015.
+
+[MORENO D. Pentest em aplicações web. São Paulo: Novatec, 2017.]
+[MUELLER J. P. Segurança para desenvolvedores web. São Paulo: Novatec, 2016.]
+[SEITZ J. Black Hat Python: Programação Python Para Hackers e Pentesters. São Paulo: Novatec, 2015.]
+
 Bibliografia Complementar:
-ABNT. Tecnologia da informação – Código de prática para a gestão da segurança
-da informação (NBR ISO/IEC 17799). Rio de Janeiro, RJ: 2001.
-FERREIRA, Rodrigo. Segurança em aplicações Web. São Paulo: Casa do Código,
-2017.
-WEIDMAN G. Testes de Invasão: Uma introdução prática ao hacking. São Paulo:
-Novatec, 2014. 
+
+[ABNT. Tecnologia da informação – Código de prática para a gestão da segurança da informação (NBR ISO/IEC 17799). Rio de Janeiro, RJ: 2001.]
+[FERREIRA, Rodrigo. Segurança em aplicações Web. São Paulo: Casa do Código, 2017.]
+[WEIDMAN G. Testes de Invasão: Uma introdução prática ao hacking. São Paulo: Novatec, 2014.]

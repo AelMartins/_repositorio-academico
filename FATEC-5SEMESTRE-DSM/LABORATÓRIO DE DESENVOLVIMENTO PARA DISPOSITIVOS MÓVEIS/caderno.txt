@@ -1,67 +1,74 @@
-SIGLA – LABORATÓRIO DE DESENVOLVIMENTO MÓVEL – PRESENCIAL – 80
-Aulas
-Competências Profissionais desenvolvidas neste componente
- Empreender, exercer a liderança, identificar oportunidades de mudanças e projetar soluções
-inovadoras baseadas em tecnologias da informação nas organizações.
- Todas as competências desenvolvidas, do primeiro ao quinto semestres, poderão ser
-associadas no desenvolvimento do projeto desta disciplina.
-Competências Socioemocionais
- Agir com pensamento crítico voltado à resolução de situações-problema.
- Atuar com liderança em função dos contextos do trabalho.
- Atuar de forma colaborativa quando do trabalho em equipe.
- Contribuir para o alcance de objetivos comuns.
- Demonstrar capacidade de adotar em tempo hábil a solução mais adequada entre possíveis
-alternativas.
- Demonstrar habilidade para escutar atentamente seu interlocutor.
- Demonstrar tendência a ajustar situações e estabelecer acordos.
- Evidenciar desinibição e desprendimento para lidar com pessoas de cargos superiores.
+O texto a seguir é uma parte recortada da documentação oficial da FATEC referente ao programa de ensino do curso DSM a despeito da matéria "LABORATÓRIO DE DESENVOLVIMENTO MÓVEL".
+
+[...]
+
+LABORATÓRIO DE DESENVOLVIMENTO MÓVEL – PRESENCIAL – 80 Aulas
+
+Competências Profissionais desenvolvidas neste componente:
+-> Empreender, exercer a liderança, identificar oportunidades de mudanças e projetar soluções inovadoras baseadas em tecnologias da informação nas organizações.
+-> Todas as competências desenvolvidas, do primeiro ao quinto semestres, poderão ser associadas no desenvolvimento do projeto desta disciplina.
+
+Competências Socioemocionais:
+-> Agir com pensamento crítico voltado à resolução de situações-problema.
+-> Atuar com liderança em função dos contextos do trabalho.
+-> Atuar de forma colaborativa quando do trabalho em equipe.
+-> Contribuir para o alcance de objetivos comuns.
+-> Demonstrar capacidade de adotar em tempo hábil a solução mais adequada entre possíveis alternativas.
+-> Demonstrar habilidade para escutar atentamente seu interlocutor.
+-> Demonstrar tendência a ajustar situações e estabelecer acordos.
+-> Evidenciar desinibição e desprendimento para lidar com pessoas de cargos superiores.
+
 Objetivos de Aprendizagem:
- Implementar um software aplicando conhecimentos de engenharia de software,
-programação e gerência de projetos.
- Utilizar desenvolvimento front-end e back-end integrando as aplicações
-desktop, web e mobile em projetos que atendam os requisitos de transparência
-das aplicações. 
-Ementa: Desenvolvimento de um aplicativo móvel nativo ou híbrido, empregando os
-princípios de design. Utilização de sistemas para gestão de configuração e controle
-de versão de artefatos de projeto. Aplicação de boas práticas de segurança da
-informação durante o desenvolvimento do aplicativo. Testes A/B. Integração e entrega
-contínua. Desenvolvimento Dirigido a testes (TDD). Controle de versionamento. UX
-Canvas.
-Metodologia proposta: Aprendizagem Baseada em Projetos/Problemas/Desafios.
-Emprego de metodologia ágil para gestão de projetos. Nesta disciplina o professor é
-responsável por desenvolver um projeto integrando as disciplinas do primeiro ao
-quinto semestre, seguindo o Manual de Projetos Interdisciplinares expedido pela
-CESU.
+-> Implementar um software aplicando conhecimentos de engenharia de software, programação e gerência de projetos.
+-> Utilizar desenvolvimento front-end e back-end integrando as aplicações desktop, web e mobile em projetos que atendam os requisitos de transparência das aplicações. 
+
+Ementa:
+	. Desenvolvimento de um aplicativo móvel nativo ou híbrido, empregando os princípios de design;
+	. Utilização de sistemas para gestão de configuração e controle de versão de artefatos de projeto;
+	. Aplicação de boas práticas de segurança da informação durante o desenvolvimento do aplicativo;
+	. Testes A/B. Integração e entrega contínua;
+	. Desenvolvimento Dirigido a testes (TDD);
+	. Controle de versionamento;
+	. UX Canvas.
+
+Metodologia proposta:
+	. Aprendizagem baseada em Projetos/Problemas/Desafios;
+	. Emprego de metodologia ágil para gestão de projetos;
+	. Nesta disciplina o professor é responsável por desenvolver um projeto integrando as disciplinas do primeiro ao quinto semestre, seguindo o Manual de Projetos Interdisciplinares expedido pela CESU.
+
 Instrumentos de avaliação:
-Avaliação Formativa: Exercícios para prática. Análise e Resolução de Problemas
-acompanhado de rubrica de avaliação. Apresentação de Projetos, por meio de Pitch
-para entregas intermediárias. Desafios de Programação.
-Avaliação Somativa: Provas. Projetos. Apresentação de Projetos, por meio de Pitch
-para a entrega final uma apresentação dos resultados obtidos. Validação do projeto
-Inclusão do resultado no Portfólio Digital do aluno. Avaliação em pares e Trabalhos
-Interdisciplinares.
+
+	Avaliação Formativa:
+		. Exercícios para prática;
+		. Análise;
+		. Resolução de Problemas acompanhado de rubrica de avaliação;
+		. Apresentação de Projetos, por meio de Pitch para entregas intermediárias;
+		. Desafios de Programação.
+
+	Avaliação Somativa:
+		. Provas;
+		. Projetos;
+		. Apresentação de Projetos, por meio de Pitch (para a entrega final uma apresentação dos resultados obtidos);
+		. Validação do projeto;
+		. Inclusão do resultado no Portfólio Digital do aluno;
+		. Avaliação em pares;
+		. Trabalhos Interdisciplinares.
+
 Bibliografia Básica:
-GAD, A. F. M. Building Android Apps in Python Using Kivy with Android Studio:
-With Pyjnius, Plyer, and Buildozer. 2019.
-GLAUBER, N. Dominando o Android com Kotlin. São Paulo: Novatec, 2019.
-AKSHAT PAUL, ABHISHEK NALWAYA; React Native for Mobile Development,
-Apress, 2019
-GRANT, W. UX Design: guia definitivo com as melhores práticas de UX. São Paulo:
-Novatec, 2019.
-LOPES, S. Aplicações mobile híbridas com Cordova e PhoneGap. São Paulo:
-Casa do Código. 2016.
-NEIL, T. Padrões de design para aplicativos móveis. São Paulo: Novatec 2012.
-SIX, J. Segurança de aplicativos Android. São Paulo: Novatec, 2012.
-CRUZ, F. SCRUM e Agile em Projetos Guia Completo: conquiste sua certificação e
-aprenda a usar métodos ágeis no seu dia a dia. 2 ed. São Paulo: Brasport, 2018.
+
+[GAD, A. F. M. Building Android Apps in Python Using Kivy with Android Studio: With Pyjnius, Plyer, and Buildozer. 2019.]
+[GLAUBER, N. Dominando o Android com Kotlin. São Paulo: Novatec, 2019.]
+[AKSHAT PAUL, ABHISHEK NALWAYA; React Native for Mobile Development, Apress, 2019.]
+[GRANT, W. UX Design: guia definitivo com as melhores práticas de UX. São Paulo: Novatec, 2019.]
+[LOPES, S. Aplicações mobile híbridas com Cordova e PhoneGap. São Paulo: Casa do Código, 2016.]
+[NEIL, T. Padrões de design para aplicativos móveis. São Paulo: Novatec, 2012.]
+[SIX, J. Segurança de aplicativos Android. São Paulo: Novatec, 2012.]
+[CRUZ, F. SCRUM e Agile em Projetos Guia Completo: conquiste sua certificação e aprenda a usar métodos ágeis no seu dia a dia. 2 ed. São Paulo: Brasport, 2018.]
+
 Bibliografia Complementar:
-AKSHAT PAUL, ABHISHEK NALWAYA; React Native for Mobile Development,
-Apress, 2019
-DABIT, NADER; React Native in Action Developing iOS and Android apps with
-JavaScript, Manning Publications, 2019.
-ARAUJO, E. C. Xamarin Forms: Desenvolvimento de aplicações móveis
-multiplataforma. São Paulo: Casa do Código, 2017.
-MARINHO, L. H. Iniciando com Flutter Framework: Desenvolva aplicações móveis
-no Dart Side! São Paulo: Casa do Código, 2020.
-SARAH. A. Desenvolvimento Profissional Multiplataforma para Smartphone. Rio
-de Janeiro, 2012. 
+
+[AKSHAT PAUL, ABHISHEK NALWAYA; React Native for Mobile Development, Apress, 2019.]
+[DABIT, NADER; React Native in Action Developing iOS and Android apps with JavaScript, Manning Publications, 2019.]
+[ARAUJO, E. C. Xamarin Forms: Desenvolvimento de aplicações móveis multiplataforma. São Paulo: Casa do Código, 2017.]
+[MARINHO, L. H. Iniciando com Flutter Framework: Desenvolva aplicações móveis no Dart Side! São Paulo: Casa do Código, 2020.]
+[SARAH. A. Desenvolvimento Profissional Multiplataforma para Smartphone. Rio de Janeiro, 2012.]

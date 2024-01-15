@@ -1,68 +1,75 @@
-SIGLA – PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS II - PRESENCIAL - 80
-Aulas
-Competências Profissionais desenvolvidas neste componente
- Avaliar as abordagens de desenvolvimento híbrido, multiplataforma ou nativo e selecionar a
-melhor abordagem para atender a necessidade do cliente.
- Utilizar linguagens de programação para dispositivos móveis e raciocínio lógico adequados para
-resolução de situações problema e ou desenvolvimento de projetos diversos.
-Competências Socioemocionais
- Agir com pensamento crítico voltado à resolução de situações-problema.
- Atuar com liderança em função dos contextos do trabalho.
- Atuar de forma colaborativa quando do trabalho em equipe.
- Contribuir para o alcance de objetivos comuns.
- Demonstrar capacidade de adotar em tempo hábil a solução mais adequada entre possíveis
-alternativas.
- Demonstrar habilidade para escutar atentamente seu interlocutor.
- Demonstrar tendência a ajustar situações e estabelecer acordos.
- Evidenciar desinibição e desprendimento para lidar com pessoas de cargos superiores.
+O texto a seguir é uma parte recortada da documentação oficial da FATEC referente ao programa de ensino do curso DSM a despeito da matéria "PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS II".
+
+[...]
+
+PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS II - PRESENCIAL - 80 Aulas
+
+Competências Profissionais desenvolvidas neste componente:
+-> Avaliar as abordagens de desenvolvimento híbrido, multiplataforma ou nativo e selecionar a melhor abordagem para atender a necessidade do cliente.
+-> Utilizar linguagens de programação para dispositivos móveis e raciocínio lógico adequados para resolução de situações problema e ou desenvolvimento de projetos diversos.
+
+Competências Socioemocionais:
+-> Agir com pensamento crítico voltado à resolução de situações-problema.
+-> Atuar com liderança em função dos contextos do trabalho.
+-> Atuar de forma colaborativa quando do trabalho em equipe.
+-> Contribuir para o alcance de objetivos comuns.
+-> Demonstrar capacidade de adotar em tempo hábil a solução mais adequada entre possíveis alternativas.
+-> Demonstrar habilidade para escutar atentamente seu interlocutor.
+-> Demonstrar tendência a ajustar situações e estabelecer acordos.
+-> Evidenciar desinibição e desprendimento para lidar com pessoas de cargos superiores.
+
 Objetivos de Aprendizagem:
- Desenvolver aplicativos para dispositivos móveis de forma híbrida para as
-plataformas Android e iOS, utilizando linguagens e ambientes que garantam
-essa interação.
- Criar aplicações utilizando abordagem em Interface, Eventos, Props, State,
-Navegação, Multimídia, Notificações, Persistência de dados, UX, Serviços
-RESTFul, Integrações, Design Patterns. Utilizar sensores IoT para capturar
-dados e tratar na aplicação.
- Aplicar versionamento e documentação da aplicação.
-Ementa: Definição de aplicação híbrida. Funcionamento de uma aplicação híbrida.
-Linguagens e frameworks para desenvolvimento de aplicações móveis híbridas e
-nativas. Modelagem e implementação de uma aplicação híbrida centrada no usuário.
-Componentes de interface da aplicação híbrida. Acesso a dados em um servidor.
-Construção de uma API RESTful. Persistência de Dados locais e remotos. Utilizar
-sensores IoT para capturar dados e tratar na aplicação. Uso de recursos nativos dos
-smartphones, como badges, agenda e câmera. Execução da aplicação em
-simuladores e em dispositivos. Desenvolvimento Dirigido a testes (TDD). Controle de
-versionamento.
-Metodologia proposta: Aulas Expositivas. Aprendizagem Baseada em
-Projetos/Problemas. Gamificação. Coding Dojo.
-Avaliação Formativa: exercícios para prática, análise e resolução de problemas
-acompanhado de rubrica de avaliação.
-Avaliação Somativa: Provas. Projetos. Avaliação em pares. Desafios de Programação
-e Trabalhos Interdisciplinares.
+-> Desenvolver aplicativos para dispositivos móveis de forma híbrida para as plataformas Android e iOS, utilizando linguagens e ambientes que garantam essa interação.
+-> Criar aplicações utilizando abordagem em Interface, Eventos, Props, State, Navegação, Multimídia, Notificações, Persistência de dados, UX, Serviços RESTFul, Integrações, Design Patterns. Utilizar sensores IoT para capturar dados e tratar na aplicação.
+-> Aplicar versionamento e documentação da aplicação.
+
+Ementa:
+	. Definição de aplicação híbrida;
+	. Funcionamento de uma aplicação híbrida;
+	. Linguagens e frameworks para desenvolvimento de aplicações móveis híbridas e nativas;
+	. Modelagem e implementação de uma aplicação híbrida centrada no usuário;
+	. Componentes de interface da aplicação híbrida;
+	. Acesso a dados em um servidor;
+	. Construção de uma API RESTful;
+	. Persistência de Dados locais e remotos;
+	. Utilizar sensores IoT para capturar dados e tratar na aplicação;
+	. Uso de recursos nativos dos smartphones, como badges, agenda e câmera;
+	. Execução da aplicação em simuladores e em dispositivos;
+	. Desenvolvimento Dirigido a testes (TDD);
+	. Controle de versionamento.
+
+Metodologia proposta:
+	. Aulas Expositivas;
+	. Aprendizagem baseada em Projetos/Problemas;
+	. Gamificação;
+	. Coding Dojo;
+
+Instrumentos de avaliação:
+
+	Avaliação Formativa:
+		. Exercícios para prática, análise e resolução de problemas acompanhado de rubrica de avaliação.
+
+	Avaliação Somativa:
+		. Provas;
+		. Projetos;
+		. Avaliação em pares;
+		. Desafios de Programação;
+		. Trabalhos Interdisciplinares.
+
 Bibliografia Básica:
-ARAUJO, E. C. Ionic 4: Desenvolvimento multiplataforma para dispositivos móveis.
-São Paulo: Casa do Código. 2020.
-PINHO, D. M., ESCUDELARIO, B. React Native: Desenvolvimento de aplicativos
-mobile com React. São Paulo: Casa do Código. 2020.
-SARAH. A. Desenvolvimento Profissional Multiplataforma para Smartphone. Rio
-de Janeiro, 2012.
-SOUZA, N. Cordova avançado e PhoneGap: Um guia detalhado do zero à
-publicação. São Paulo: Casa do Código. 2018.
-ZAMMETTI, F. Flutter na Prática: Melhore seu Desenvolvimento Mobile com o SDK
-Open Source Mais Recente do Google. São Paulo: Novatec, 2020.
+
+[ARAUJO, E. C. Ionic 4: Desenvolvimento multiplataforma para dispositivos móveis. São Paulo: Casa do Código, 2020.]
+[PINHO, D. M., ESCUDELARIO, B. React Native: Desenvolvimento de aplicativos mobile com React. São Paulo: Casa do Código, 2020.]
+[SARAH. A. Desenvolvimento Profissional Multiplataforma para Smartphone. Rio de Janeiro, 2012.]
+[SOUZA, N. Cordova avançado e PhoneGap: Um guia detalhado do zero à publicação. São Paulo: Casa do Código, 2018.]
+[ZAMMETTI, F. Flutter na Prática: Melhore seu Desenvolvimento Mobile com o SDK Open Source Mais Recente do Google. São Paulo: Novatec, 2020.]
+
 Bibliografia Complementar:
-AKSHAT PAUL, ABHISHEK NALWAYA; React Native for Mobile Development,
-Apress, 2019
-ARAUJO, E. C. Xamarin Forms: Desenvolvimento de aplicações móveis
-multiplataforma. São Paulo: Casa do Código, 2017. 
-DABIT, NADER; React Native in Action Developing iOS and Android apps with
-JavaScript, Manning Publications, 2019.
-GAD, A. F. M. Building Android Apps in Python Using Kivy with Android Studio:
-With Pyjnius, Plyer, and Buildozer. 2019.
-HARMES, D. Desenvolvimento de Aplicativos Móveis com Xamarin
-Fundamentos do Xamarin. Forms e da criação de códigos C# multiplataforma.
-São Paulo: Novatec, 2015.
-LOPES, S. Aplicações mobile híbridas com Cordova e PhoneGap. São Paulo:
-Casa do Código. 2016.
-MARINHO, L. H. Iniciando com Flutter Framework: Desenvolva aplicações móveis
-no Dart Side! São Paulo: Casa do Código, 2020. 
+
+[AKSHAT PAUL, ABHISHEK NALWAYA; React Native for Mobile Development, Apress, 2019.]
+[ARAUJO, E. C. Xamarin Forms: Desenvolvimento de aplicações móveis multiplataforma. São Paulo: Casa do Código, 2017.]
+[DABIT, NADER; React Native in Action Developing iOS and Android apps with JavaScript, Manning Publications, 2019.]
+[GAD, A. F. M. Building Android Apps in Python Using Kivy with Android Studio: With Pyjnius, Plyer, and Buildozer. 2019.]
+[HARMES, D. Desenvolvimento de Aplicativos Móveis com Xamarin Fundamentos do Xamarin. Forms e da criação de códigos C# multiplataforma. São Paulo: Novatec, 2015.]
+[LOPES, S. Aplicações mobile híbridas com Cordova e PhoneGap. São Paulo: Casa do Código, 2016.]
+[MARINHO, L. H. Iniciando com Flutter Framework: Desenvolva aplicações móveis no Dart Side! São Paulo: Casa do Código, 2020.]

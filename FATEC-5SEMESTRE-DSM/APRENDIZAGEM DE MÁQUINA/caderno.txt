@@ -1,47 +1,68 @@
-SIGLA – APRENDIZAGEM DE MÁQUINA - PRESENCIAL - 80 Aulas
-Competências Profissionais desenvolvidas neste componente
- Aplicar linguagens voltadas a inteligência artificial para atender as particularidades de
-desenvolvimento de projetos específicos.
- Aplicar linguagens de programação back-end e raciocínio lógico adequados para resolução
-de situações problema e ou desenvolvimento de projetos diversos.
-Competências Socioemocionais
- Agir com pensamento crítico voltado à resolução de situações-problema.
+O texto a seguir é uma parte recortada da documentação oficial da FATEC referente ao programa de ensino do curso DSM a despeito da matéria "APRENDIZAGEM DE MÁQUINA".
+
+[...]
+
+APRENDIZAGEM DE MÁQUINA - PRESENCIAL - 80 Aulas
+
+Competências Profissionais desenvolvidas neste componente:
+-> Aplicar linguagens voltadas a inteligência artificial para atender as particularidades de desenvolvimento de projetos específicos.
+-> Aplicar linguagens de programação back-end e raciocínio lógico adequados para resolução de situações problema e ou desenvolvimento de projetos diversos.
+
+Competências Socioemocionais:
+-> Agir com pensamento crítico voltado à resolução de situações-problema.
+
 Objetivos de Aprendizagem:
- Conhecer e utilizar os principais paradigmas de aprendizagem de máquina.
- Aplicar os algoritmos e técnicas de aprendizagem, redes neurais e métodos
-probabilísticos, empregando uma linguagem de programação.
-Ementa: O que é aprendizagem de máquina. Redes Neurais. Métodos probabilísticos.
-Tarefas de aprendizagem. Aplicações de aprendizagem de máquina. Viés indutivo.
-Aprendizagem descritiva e preditiva. Preparação de dados. Algoritmos de
-aprendizagem de máquina. Linguagem de programação para Aprendizagem de
-Máquina. Medidas de avaliação de resultados.
-Metodologia proposta: Aulas expositivas. Desenvolvimento de Projetos baseados
-em problemas reais. Emprego de metodologia ágil para gestão de projetos. Utilização
-Ambientes de Virtualização e sala de aula invertida. Trabalhos Interdisciplinares,
-seguindo o Manual de Projetos Interdisciplinares expedido pela CESU.
+-> Conhecer e utilizar os principais paradigmas de aprendizagem de máquina.
+-> Aplicar os algoritmos e técnicas de aprendizagem, redes neurais e métodos probabilísticos, empregando uma linguagem de programação.
+
+Ementa:
+	. O que é aprendizagem de máquina;
+	. Redes Neurais;
+	. Métodos probabilísticos;
+	. Tarefas de aprendizagem;
+	. Aplicações de aprendizagem de máquina;
+	. Viés indutivo;
+	. Aprendizagem descritiva e preditiva;
+	. Preparação de dados;
+	. Algoritmos de aprendizagem de máquina;
+	. Linguagem de programação para Aprendizagem de Máquina;
+	. Medidas de avaliação de resultados.
+
+Metodologia proposta:
+	. Aulas expositivas;
+	. Desenvolvimento de projetos baseados em problemas reais;
+	. Emprego de metodologia ágil para gestão de projetos;
+	. Utilização de Ambientes de Virtualização;
+	. Sala de aula invertida;
+	. Trabalhos Interdisciplinares, seguindo o Manual de Projetos Interdisciplinares expedido pela CESU.
+
 Instrumentos de avaliação:
-Avaliação Formativa: realização de pesquisas para prática. Apresentação de Projetos,
-por meio de Pitch para entregas intermediárias. Análise e resolução de problemas
-acompanhado de rubrica de avaliação.
-Avaliação Somativa: Provas. Projetos. Apresentação de Projetos, por meio de Pitch
-para entregas para a entrega final e validação do projeto para inclusão no Portfólio
-Digital do aluno. Trabalhos Interdisciplinares.
+
+	Avaliação Formativa:
+		. Realização de pesquisas para prática;
+		. Apresentação de Projetos, por meio de Pitch para entregas intermediárias;
+		. Análise;
+		. Resolução de problemas acompanhado de rubrica de avaliação.
+
+	Avaliação Somativa:
+		. Provas;
+		. Projetos;
+		. Apresentação de Projetos, por meio de Pitch (para a entrega final);
+		. Validação do projeto para inclusão no Portfólio Digital do aluno;
+		. Trabalhos Interdisciplinares.
+
 Bibliografia Básica:
-FACELI, K. et al. Inteligência Artificial: Uma Abordagem de Aprendizado de
-Máquina. Rio de Janeiro: LTC, 2011
-GRUS, J. Data Science do Zero. Rio de Janeiro: Alta Books, 2016.
-MUELLER, J. P., MASSARON, L. Aprendizado de Máquina Para Leigos. Rio de
-Janeiro: Alta Books, 2019.
+
+[FACELI, K. et al. Inteligência Artificial: Uma Abordagem de Aprendizado de Máquina. Rio de Janeiro: LTC, 2011.]
+[GRUS, J. Data Science do Zero. Rio de Janeiro: Alta Books, 2016.]
+[MUELLER, J. P., MASSARON, L. Aprendizado de Máquina Para Leigos. Rio de Janeiro: Alta Books, 2019.]
+
 Bibliografia Complementar:
-CARVALHO, A. Inteligência Artificial: Uma Abordagem de Aprendizado de Máquina.
-Rio de Janeiro: LTC – 2011.
-GÉRON, A. Mãos à Obra: Aprendizado de Máquina com Scikit-Learn & TensorFlow.
-Rio de Janeiro: Alta Books, 2019.
-MCKINNEY, W. Python Para Análise de Dados: Tratamento de Dados com Pandas,
-NumPy e IPython. São Paulo: Novatec, 2018.
-MUELLER, J. P., MASSARON, L. Python Para Data Science Para Leigos. 2 ed. Rio
-de Janeiro: Alta Books, 2020.
-NORVIG, P. Inteligencia Artificial. 3 ed. Rio de Janeiro: LTC, 2013
-TAKAHASHI, S., INOUE, I. Guia Mangá de Análise de Regressão. São Paulo:
-Novatec, 2019.
-TAKAHASHI, S., INOUE, I. Guia Mangá de Estatística. São Paulo: Novatec, 2010. 
+
+[CARVALHO, A. Inteligência Artificial: Uma Abordagem de Aprendizado de Máquina. Rio de Janeiro: LTC – 2011.]
+[GÉRON, A. Mãos à Obra: Aprendizado de Máquina com Scikit-Learn & TensorFlow. Rio de Janeiro: Alta Books, 2019.]
+[MCKINNEY, W. Python Para Análise de Dados: Tratamento de Dados com Pandas, NumPy e IPython. São Paulo: Novatec, 2018.]
+[MUELLER, J. P., MASSARON, L. Python Para Data Science Para Leigos. 2 ed. Rio de Janeiro: Alta Books, 2020.]
+[NORVIG, P. Inteligencia Artificial. 3 ed. Rio de Janeiro: LTC, 2013.]
+[TAKAHASHI, S., INOUE, I. Guia Mangá de Análise de Regressão. São Paulo: Novatec, 2019.]
+[TAKAHASHI, S., INOUE, I. Guia Mangá de Estatística. São Paulo: Novatec, 2010. ]
