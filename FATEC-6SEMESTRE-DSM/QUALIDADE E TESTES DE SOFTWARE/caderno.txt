@@ -1,47 +1,69 @@
-SIGLA – QUALIDADE E TESTES DE SOFTWARE - REMOTA - 80 Aulas
-Competências Profissionais desenvolvidas neste componente
- Empregar metodologias que visem garantir critérios de qualidade no desenvolvimento de
-uma solução computacional.
-Competências Socioemocionais
- Demonstrar tendência a ajustar situações e estabelecer acordos.
+O texto a seguir é uma parte recortada da documentação oficial da FATEC referente ao programa de ensino do curso DSM a despeito da matéria "QUALIDADE E TESTES DE SOFTWARE".
+
+[...]
+
+QUALIDADE E TESTES DE SOFTWARE - REMOTA - 80 Aulas
+
+Competências Profissionais desenvolvidas neste componente:
+-> Empregar metodologias que visem garantir critérios de qualidade no desenvolvimento de uma solução computacional.
+
+Competências Socioemocionais:
+-> Demonstrar tendência a ajustar situações e estabelecer acordos.
+
 Objetivos de Aprendizagem:
- Compreender o pilar de Segurança da Informação e empregar técnicas de
-programação segura para o desenvolvimento de aplicações Web, na proteção
-os dados de entrada dos usuários.
- Conhecer e utilizar conceitos de SQL Injection, para testar as vulnerabilidades
-das aplicações.
- Aplicar técnicas de validação ou codificação, para assegurar as mensagens
-enviadas ao navegar.
- Realizar armazenamento seguro das informações, com a utilização de
-autenticidade e criptografia. 
-Ementa: Fundamentos da Qualidade de Software. Qualidade do Processo. Normas e
-Modelos de Maturidade de Processos. Qualidade do Produto. Normas de Qualidade
-dos Produtos de Software. Garantia da Qualidade. Verificação de Software. Validação
-de Software. Gerência da Qualidade de Software. Métricas da Qualidade de Software.
-Conceitos iniciais de verificação e validação de software. Revisões de software.
-Princípios, estratégias e fases de testes de software. Processo de teste de software.
-Técnicas de teste de software (Critérios funcionais, estruturais e baseados em
-defeitos). Testes Unitários Automação dos testes.
-Metodologia proposta: Aulas Expositivas. Aprendizagem Baseada em
-Projetos/Problemas. Gamificação, Sala de Aula Invertida, Estudo de Caso Real.
-Utilização de simuladores e ambientes virtuais.
+-> Compreender o pilar de Segurança da Informação e empregar técnicas de programação segura para o desenvolvimento de aplicações Web, na proteção dos dados de entrada dos usuários.
+-> Conhecer e utilizar conceitos de SQL Injection, para testar as vulnerabilidades das aplicações.
+-> Aplicar técnicas de validação ou codificação, para assegurar as mensagens enviadas ao navegar.
+-> Realizar armazenamento seguro das informações, com a utilização de autenticidade e criptografia.
+
+Ementa:
+    . Fundamentos da Qualidade de Software;
+    . Qualidade do Processo;
+    . Normas e Modelos de Maturidade de Processos;
+    . Qualidade do Produto;
+    . Normas de Qualidade dos Produtos de Software;
+    . Garantia da Qualidade;
+    . Verificação de Software;
+    . Validação de Software;
+    . Gerência da Qualidade de Software;
+    . Métricas da Qualidade de Software;
+    . Conceitos iniciais de verificação e validação de software;
+    . Revisões de software;
+    . Princípios, estratégias e fases de testes de software;
+    . Processo de teste de software;
+    . Técnicas de teste de software (Critérios funcionais, estruturais e baseados em defeitos);
+    . Testes Unitários Automação dos testes.
+
+Metodologia proposta:
+    . Aulas Expositivas;
+    . Aprendizagem Baseada em Projetos/Problemas;
+    . Gamificação;
+    . Sala de Aula Invertida;
+    . Estudo de Caso Real;
+    . Utilização de simuladores e ambientes virtuais.
+
 Instrumentos de avaliação:
-Avaliação Formativa: Exercícios para prática. Análise e Resolução de Problemas
-acompanhado de rubrica de avaliação.
-Avaliação Somativa: Provas. Projetos. Avaliação em pares. Desafios de Programação
-e Trabalhos Interdisciplinares.
+
+    Avaliação Formativa:
+        . Exercícios para prática;
+        . Análise;
+        . Resolução de Problemas acompanhado de rubrica de avaliação.
+
+    Avaliação Somativa:
+        . Provas;
+        . Projetos;
+        . Avaliação em pares;
+        . Desafios de Programação;
+        . Trabalhos Interdisciplinares.
+
 Bibliografia Básica:
-KOSCIANSKI, A.; PEZZE, M.; YOUNG, M. Teste e análise de software: processos,
-princípios e técnicas. Porto Alegre: Bookman, 2008
-MALDONADO, J. C.; JINO, M.; DELAMARO, M. E. Introdução ao Teste de Software.
-Rio de Janeiro: Campus/Elsevier, 2007.
-MUNIZ, Antonio et al. Jornada Ágil de Qualidade: aplique técnicas de qualidade no
-início do ciclo para implantação contínua de software. São Paulo: Brasport,
-2020.
+
+[KOSCIANSKI, A.; PEZZE, M.; YOUNG, M. Teste e análise de software: processos, princípios e técnicas. Porto Alegre: Bookman, 2008.]
+[MALDONADO, J. C.; JINO, M.; DELAMARO, M. E. Introdução ao Teste de Software. Rio de Janeiro: Campus/Elsevier, 2007.]
+[MUNIZ, Antonio et al. Jornada Ágil de Qualidade: aplique técnicas de qualidade no início do ciclo para implantação contínua de software. São Paulo: Brasport, 2020.]
+
 Bibliografia Complementar:
-ANICHE, Mauricio. Testes automatizados de software: um guia prático. São Paulo:
-Casa do Código, 2015.
-MALDONADO, J. DELAMARO, M. VINCENZI, A.M. R. Automatização de teste de
-software com ferramentas de software livre. São Paulo: Gen LTC, 2018.
-SOARES, M. S. Qualidade de software. 2. ed. São Paulo: Novatec,
-2007.
+
+[ANICHE, Mauricio. Testes automatizados de software: um guia prático. São Paulo: Casa do Código, 2015.]
+[MALDONADO, J. DELAMARO, M. VINCENZI, A.M. R. Automatização de teste de software com ferramentas de software livre. São Paulo: Gen LTC, 2018.]
+[SOARES, M. S. Qualidade de software. 2. ed. São Paulo: Novatec, 2007.]

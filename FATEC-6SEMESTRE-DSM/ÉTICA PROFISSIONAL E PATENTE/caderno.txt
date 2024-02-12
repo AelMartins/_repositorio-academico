@@ -1,51 +1,65 @@
-SIGLA – ÉTICA PROFISSIONAL E PATENTE - REMOTA - 40 Aulas
-Competências Profissionais desenvolvidas neste componente
- Empregar os aspectos éticos e legais relacionados aos direitos e propriedades intelectuais
-inerentes à utilização e desenvolvimento de software.
-Competências Socioemocionais
- Atuar com liderança em função dos contextos do trabalho.
- Atuar de forma colaborativa quando do trabalho em equipe.
- Contribuir para o alcance de objetivos comuns.
- Demonstrar capacidade de adotar em tempo hábil a solução mais adequada entre possíveis
-alternativas.
- Demonstrar capacidade de análise, negociação e tomada de decisão.
- Demonstrar habilidade para escutar atentamente seu interlocutor.
- Demonstrar tendência a ajustar situações e estabelecer acordos.
- Evidenciar desinibição e desprendimento para lidar com pessoas de cargos superiores.
- Responder com empatia a emoções e necessidades manifestadas por outras pessoas.
+O texto a seguir é uma parte recortada da documentação oficial da FATEC referente ao programa de ensino do curso DSM a despeito da matéria "ÉTICA PROFISSIONAL E PATENTE".
+
+[...]
+
+ÉTICA PROFISSIONAL E PATENTE - REMOTA - 40 Aulas
+
+Competências Profissionais desenvolvidas neste componente:
+-> Empregar os aspectos éticos e legais relacionados aos direitos e propriedades intelectuais inerentes à utilização e desenvolvimento de software.
+
+Competências Socioemocionais:
+-> Atuar com liderança em função dos contextos do trabalho.
+-> Atuar de forma colaborativa quando do trabalho em equipe.
+-> Contribuir para o alcance de objetivos comuns.
+-> Demonstrar capacidade de adotar em tempo hábil a solução mais adequada entre possíveis alternativas.
+-> Demonstrar capacidade de análise, negociação e tomada de decisão.
+-> Demonstrar habilidade para escutar atentamente seu interlocutor.
+-> Demonstrar tendência a ajustar situações e estabelecer acordos.
+-> Evidenciar desinibição e desprendimento para lidar com pessoas de cargos superiores.
+-> Responder com empatia a emoções e necessidades manifestadas por outras pessoas.
+
 Objetivos de Aprendizagem:
- Analisar e desenvolver políticas, normas, contratos e licitações que
-contemplem os conceitos de propriedade intelectual, direito autoral e Lei de
-Software. 
- Compreender conceitos de direito digital, em especial, Lei Geral de Proteção
-de Dados e conceitos de privacidade.
- Empregar ética profissional durante o desenvolvimento de aplicações, sistemas
-e envolvimento nos projetos.
-Ementa: Ética nas relações de trabalho. Propriedade Intelectual: Propriedade
-industrial, Direito Autoral, Proteção Legal. Direito Digital: Conceito, Sociedade da
-Informação, Princípios, Marco Civil da Internet. Compliance: Conceito, Funções,
-Compliance digital. Lei Geral de Proteção de Dados: Fundamentos, Princípios,
-Direitos do titular, Tratamento de dados. Autoridade Nacional de Proteção de Dados
-(ANPD). Conselho Nacional da Proteção de Dados Pessoais e da Privacidade.
-Regulamento Geral da Proteção de Dados (GDPR).
-Metodologia proposta: Estudos de caso reais; Projetos de pesquisas de mercado;
-Sala de aula invertida.
+-> Analisar e desenvolver políticas, normas, contratos e licitações que contemplem os conceitos de propriedade intelectual, direito autoral e Lei de Software. 
+-> Compreender conceitos de direito digital, em especial, Lei Geral de Proteção de Dados e conceitos de privacidade.
+-> Empregar ética profissional durante o desenvolvimento de aplicações, sistemas e envolvimento nos projetos.
+
+Ementa:
+    . Ética nas relações de trabalho;
+    . Propriedade Intelectual: Propriedade industrial, Direito Autoral, Proteção Legal;
+    . Direito Digital: Conceito, Sociedade da Informação, Princípios, Marco Civil da Internet;
+    . Compliance: Conceito, Funções, Compliance digital;
+    . Lei Geral de Proteção de Dados: Fundamentos, Princípios, Direitos do titular, Tratamento de dados;
+    . Autoridade Nacional de Proteção de Dados (ANPD);
+    . Conselho Nacional da Proteção de Dados Pessoais e da Privacidade;
+    . Regulamento Geral da Proteção de Dados (GDPR).
+
+Metodologia proposta:
+    . Estudos de caso reais;
+    . Projetos de pesquisas de mercado;
+    . Sala de aula invertida.
+
 Instrumentos de avaliação:
-Avaliação Formativa: Desenvolver normas internas de acordo com os projetos
-estudados. Debates com relatórios de Estudos de Caso. Atividade em Grupo para
-abordar problemas encontrados em Leis Vigentes e propor soluções.
-Avaliação Somativa: Provas. Projetos. Avaliação em pares e Trabalhos
-Interdisciplinares
+
+    Avaliação Formativa:
+        . Desenvolver normas internas de acordo com os projetos estudados;
+        . Debates com relatórios de Estudos de Caso;
+        . Atividade em Grupo para abordar problemas encontrados em Leis Vigentes e propor soluções.
+
+    Avaliação Somativa:
+        . Provas;
+        . Projetos;
+        . Avaliação em pares;
+        . Trabalhos Interdisciplinares.
+
 Bibliografia Básica:
-SILVEIRA, N. Propriedade intelectual: propriedade industrial, direito de autor,
-software, cultivares, nome empresarial. 4 ed. Barueri: Manole, 2011.
-TEIXEIRA T. Direito Digital e processo eletrônico. 5 Ed São Paulo: Saraiva, 2020.
-GARCIA R. L. et al. Lei Geral de Proteção de Dados (LGPD): Guia de implantação,
-São Paulo: Blucher, 2020.
+
+[SILVEIRA, N. Propriedade intelectual: propriedade industrial, direito de autor, software, cultivares, nome empresarial. 4 ed. Barueri: Manole, 2011.]
+[TEIXEIRA T. Direito Digital e processo eletrônico. 5 Ed São Paulo: Saraiva, 2020.]
+[GARCIA R. L. et al. Lei Geral de Proteção de Dados (LGPD): Guia de implantação, São Paulo: Blucher, 2020.]
+
 Bibliografia Complementar:
-AFONSO, O. Direito autoral: conceitos essenciais. São Paulo: Manole, 2009.
-CRESPO, M. X. F. Crimes digitais. São Paulo: Saraiva, 2011.
-FELIZARDO, A. R. Ética e direitos humanos: uma perspectiva profissional. Curitiba:
-InterSaberes, 2012.
-PAESANI, L. M. Direito de informática: comercialização e desenvolvimento
-internacional do software. São Paulo: Atlas, 2015. 
+
+[AFONSO, O. Direito autoral: conceitos essenciais. São Paulo: Manole, 2009.]
+[CRESPO, M. X. F. Crimes digitais. São Paulo: Saraiva, 2011.]
+[FELIZARDO, A. R. Ética e direitos humanos: uma perspectiva profissional. Curitiba: InterSaberes, 2012.]
+[PAESANI, L. M. Direito de informática: comercialização e desenvolvimento internacional do software. São Paulo: Atlas, 2015.]
